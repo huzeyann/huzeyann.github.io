@@ -7,7 +7,7 @@ img: /assets/img/ai_cover_image.jpeg
 importance: 3
 category: work
 ---
-For further interest, please refer to [Deng et. al. 2021, ICLR](https://openreview.net/forum?id=FZ1oTwcXchK), [Li et. al. 2021, ICLR](https://openreview.net/forum?id=POWv6hDd9XH) and [Li and Deng et. al. 2021, ICLR](http://proceedings.mlr.press/v139/li21d.html).
+For further interest, please refer to [Deng et. al. 2021, ICLR](https://openreview.net/forum?id=FZ1oTwcXchK), [Li et. al. 2021, ICLR](https://openreview.net/forum?id=POWv6hDd9XH) and [Li and Deng et. al. 2021, ICML](http://proceedings.mlr.press/v139/li21d.html).
 
 ## SNN model
 Spiking neuron networks (SNNs) are biologically inspired networks, which have received increasing attention due to their efficient computation. During their development, many mathematical models have been proposed to describe neuron behavior. The most widely used neuron model for SNN is the Leaky Integrate-and-Fire (LIF) model, which uses simple differential equations to describe the membrane potential  behavior of neurons. Its format of explicit iteration is governed by
