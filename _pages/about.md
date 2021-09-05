@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>📍Chengdu, China</p>
-    <p><a href="mailto:%68%75%7A%65.%79%61%6E%6E@%67%6D%61%69%6C.%63%6F%6D"><i class="fas fa-envelope"> Email</i></a><p/>
+    <p><a href="mailto:%68%75%7A%65.%79%61%6E%6E@%67%6D%61%69%6C.%63%6F%6D"><i class="fas fa-envelope"> Email</i></a></p>
     <p><a href="https://github.com/huzeyann" target="_blank" title="GitHub"><i class="fab fa-github"> Github</i></a></p>
     <p><a href="https://twitter.com/HuzeYann" target="_blank" title="Twitter"><i class="fab fa-twitter"> Twitter</i></a></p>
 
