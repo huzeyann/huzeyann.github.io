@@ -25,4 +25,8 @@ I develop deep learning models to understand the brain, especially vision. I am 
 
 Also, I am an active content creator (illustration, video editing, rhythm game design and notecharting).
 
-In 2021, I finished my B.S. in Mathematics and B.E. in Computer Science at UESTC, working at [Brain and Intelligence Lab, lead by Shi Gu](http://guslab.org/){:target="\_blank"}. I was the leader of [CNSS Studio DevOps Team](https://cnss.io/) in 2019. I will start my Ph.D. in 2022 at UPenn, working with [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}.
+In 2021, I finished my B.S. in Mathematics and B.E. in Computer Science at UESTC, working at [Brain and Intelligence Lab, lead by Shi Gu](http://guslab.org/){:target="\_blank"}. I was the leader of [CNSS Studio DevOps Team](https://cnss.io/) in 2019. I will start my PhD in 2022. 
+
+{% comment %} 
+    at UPenn, working with [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}.
+{% endcomment %}
