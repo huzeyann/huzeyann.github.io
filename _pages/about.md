@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>📍Chengdu, China</p>
+    <p>📍PA, USA</p>
     <p><a href="mailto:%68%75%7A%65.%79%61%6E%6E@%67%6D%61%69%6C.%63%6F%6D"><i class="fas fa-envelope"> Email</i></a></p>
     <p><a href="https://github.com/huzeyann" target="_blank" title="GitHub"><i class="fab fa-github"> Github</i></a></p>
     <p><a href="https://twitter.com/HuzeYann" target="_blank" title="Twitter"><i class="fab fa-twitter"> Twitter</i></a></p>
 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
