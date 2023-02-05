@@ -22,12 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 <br/>
 
-I develop deep learning models to understand the brain, especially vision. I am particularly interested in 3D computer vision, e.g. video understanding, geometric deep learning. 
+Phd student at University of Pennsylvania, advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. I am interested in closing the gap between computer vision and primate vision.
 
-Also, I am an active content creator (illustration, video editing, rhythm game design and notecharting).
+In 2021, I finished my B.S. in Mathematics and B.E. in Computer Science at UESTC [Brain and Intelligence Lab](http://guslab.org/){:target="\_blank"}, advised by Shi Gu. I was the leader of [CNSS DevOps Team](https://cnss.io/).
 
-In 2021, I finished my B.S. in Mathematics and B.E. in Computer Science at UESTC, working at [Brain and Intelligence Lab, lead by Shi Gu](http://guslab.org/){:target="\_blank"}. I was the leader of [CNSS Studio DevOps Team](https://cnss.io/) in 2019. I will start my PhD in 2022. 
-
-{% comment %} 
-    at UPenn, working with [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}.
-{% endcomment %}
+Also, I am an active content creator.
