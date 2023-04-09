@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-<div>
+<!-- <div>
 <iframe width="600" height="900"
 src="https://www.youtube.com/embed/YzueM5x8xso?loop=1">
 </iframe>
@@ -20,4 +20,4 @@ src="https://www.youtube.com/embed/YzueM5x8xso?loop=1">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/oozora_subaru.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
