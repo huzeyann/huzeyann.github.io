@@ -27,3 +27,5 @@ Phd student at University of Pennsylvania, advised by [James C. Gee](https://www
 In 2021, I finished my B.S. in Mathematics and B.E. in Computer Science at UESTC [Brain and Intelligence Lab](http://guslab.org/){:target="\_blank"}, advised by Shi Gu. I was the leader of [CNSS DevOps Team](https://cnss.io/).
 
 <!-- Also, I am a content creator <a href="/gallery">gallery</a>. -->
+
+音楽とイラストやっています。　I play drum and maimai.
