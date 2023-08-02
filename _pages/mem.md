@@ -15,14 +15,14 @@ subtitle: null
     <h3>Brain is able to...</h3>
     <h3><span id="typing-text"></span></h3>
   </div>
-</div>
 
-<div style="text-align: center;">
-  <p style="display: inline-block;">
-    <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
-    <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
-    <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">Code</a>
-  </p>
+  <div style="margin-top: 100px; text-align: center;">
+    <p style="display: inline-block;">
+      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
+      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
+      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">Code</a>
+    </p>
+  </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
