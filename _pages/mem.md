@@ -12,7 +12,7 @@ subtitle: null
     <img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
   </div>
   <div style="margin-top: 20px;">
-    <h2>Brain is able to...</h2>
+    <h2>Brain can be...</h2>
     <h2><span id="typing-text"></span>|</h2>
   </div>
 
@@ -21,9 +21,9 @@ subtitle: null
 
   <div style="margin-top: 40px; ">
     <p style="display: inline-block;">
-      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
-      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
-      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">Code</a>
+      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
+      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a>
+      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">code</a>
     </p>
   </div>
 </div>
