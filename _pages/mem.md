@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Mem
-permalink: /mem
+permalink: /
 nav: false
 subtitle: null
 
@@ -17,12 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
-
-<!-- <div style="text-align: center">
-<p>
-<b><h2 style="color: #09AD94">Images to Symbols Workshop: CogSci 2022</h2></b>
-</p>
-</div> -->
 
 <div>
 <img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
