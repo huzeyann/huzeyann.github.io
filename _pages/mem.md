@@ -7,18 +7,19 @@ subtitle: null
 ---
 <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+  <div>
     <img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
   </div>
-  <div style="margin-top: 20px; text-align: center;">
+  <div style="margin-top: 20px;">
     <h2>Brain is able to...</h2>
     <h2><span id="typing-text"></span>|</h2>
   </div>
 
-  <h1 style="text-align: center; margin-top: 100px;">Memory Encoding Model</h1>
+  <h1 style="margin-top: 100px;">Memory Encoding Model</h1>
+  <h3 style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</h3>
 
-  <div style="margin-top: 20px; text-align: center;">
+  <div style="margin-top: 20px; ">
     <p style="display: inline-block;">
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
