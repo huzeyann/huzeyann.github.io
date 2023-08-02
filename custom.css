@@ -11,8 +11,8 @@ body {
 }
 
 #container-header {
-  height: 100px;
-  font-size: larger;
+  height: 0px;
+  font-size: large;
   color: #ffffff;
 }
 

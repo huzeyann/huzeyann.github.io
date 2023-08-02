@@ -17,7 +17,13 @@ subtitle: null
 <div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div>
 </div>
 
+<div>
+<p><a href="https://github.com/huzeyann/Mem">Paper</a>  <a href="https://github.com/huzeyann/Mem">Code</a></p>
+</div>
 
+<div>
+<a href="https://github.com/huzeyann/Mem">Video</a>
+</div>
 
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
