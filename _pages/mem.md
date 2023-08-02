@@ -7,22 +7,16 @@ subtitle: null
 ---
 <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
 
-<div style="margin: 0 auto; max-width: 800px;">
-<img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
+<div style="margin: 0 auto; max-width: 800px; text-align: center;">
+  <img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
+  <div style="margin-top: 20px;">
+    <h3>Brain is able to...</h3>
+    <h3><span id="typing-text"></span></h3>
+  </div>
 </div>
 
-<div id="container-header" style="margin: 0 auto; max-width: 800px;">
-
-<div style="text-align: center;"><p><h3>Brain is able to...</h3></p></div>
-<div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div>
-</div>
-
-<div>
-<p><a href="https://github.com/huzeyann/Mem">Paper</a>  <a href="https://github.com/huzeyann/Mem">Code</a></p>
-</div>
-
-<div>
-<a href="https://github.com/huzeyann/Mem">Video</a>
+<div style="text-align: center;">
+  <p style="display: inline-block;"><a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">Paper</a> <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">Video</a> <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue;">Code</a></p>
 </div>
 
 
