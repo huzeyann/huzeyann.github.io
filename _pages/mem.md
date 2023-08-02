@@ -13,7 +13,7 @@ subtitle: null
   </div>
   <div style="margin-top: 20px; text-align: center;">
     <h2>Brain is able to...</h2>
-    <h2><span id="typing-text"></span></h2>
+    <h2><span id="typing-text"></span>|</h2>
   </div>
 
   <h1 style="text-align: center; margin-top: 100px;">Memory Encoding Model</h1>
