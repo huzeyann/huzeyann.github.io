@@ -16,7 +16,9 @@ subtitle: null
     <h3><span id="typing-text"></span></h3>
   </div>
 
-  <div style="margin-top: 100px; text-align: center;">
+  <h2 style="text-align: center; margin-top: 100px;">Memory Encoding Model</h2>
+
+  <div style="margin-top: 50px; text-align: center;">
     <p style="display: inline-block;">
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
