@@ -4,17 +4,6 @@ title: Mem
 permalink: /mem
 nav: false
 subtitle: null
-
-# profile:
-#   align: right
-#   address: >
-#     <p>555 your office number</p>
-#     <p>123 your address street</p>
-#     <p>Your City, State 12345</p>
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
 ---
 <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
 
@@ -29,5 +18,24 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 
+
+
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/typing.js">
+<!-- <script src="{{ site.baseurl | prepend: site.url }}/typing.js">] -->
+
+
+<script>
+window.onload = function() {
+  new Typed('#typing-text', {
+    strings: ["distinguish novel and old images", "think about an image without looking at it", "look at an image without thinking about it"],
+    typeSpeed: 50,
+    // startDelay: 100,
+    backDelay: 2000,
+    fadeOut: false,
+    backSpeed: 40,
+    smartBackspace: true,
+    loop: true,
+    showCursor: false
+  });
+};
+</script>
