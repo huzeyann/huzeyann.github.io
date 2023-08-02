@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Mem
-permalink: /
+permalink: /mem
 nav: false
 subtitle: null
 
