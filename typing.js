@@ -8,6 +8,6 @@ window.onload = function() {
     backSpeed: 40,
     smartBackspace: true,
     loop: true,
-    showCursor: false
+    showCursor: true
   });
 };
