@@ -22,9 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br/>
 
-Phd student at University of Pennsylvania, advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. I am interested in closing the gap between computer vision and primate vision.
-
-In 2021, I finished my B.S. in Mathematics and B.E. in Computer Science at UESTC [Brain and Intelligence Lab](http://guslab.org/){:target="\_blank"}, advised by Shi Gu. I was the leader of [CNSS DevOps Team](https://cnss.io/).
+Phd student at University of Pennsylvania, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. I am interested in computer vision and the brain.
 
 <!-- Also, I am a content creator <a href="/gallery">gallery</a>. -->
 
