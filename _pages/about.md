@@ -26,4 +26,6 @@ Phd student at University of Pennsylvania, co-advised by [James C. Gee](https://
 
 <!-- Also, I am a content creator <a href="/gallery">gallery</a>. -->
 
-音楽とイラストやっています。　I play drum and maimai.
+<hr/>
+
+音楽とイラストやっています。I play drum and maimai. 
