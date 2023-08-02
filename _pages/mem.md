@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: Mem
 permalink: /mem
 nav: false
