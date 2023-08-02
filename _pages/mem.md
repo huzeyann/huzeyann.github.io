@@ -28,5 +28,6 @@ social: false  # includes social icons at the bottom of the page
 <div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div>
 </div>
 
+
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
 <script src="{{ site.baseurl | prepend: site.url }}/typing.js">
