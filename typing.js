@@ -4,7 +4,7 @@ window.onload = function() {
     typeSpeed: 50,
     // startDelay: 100,
     backDelay: 2000,
-    fadeOut: false,
+    fadeOut: true,
     backSpeed: 40,
     smartBackspace: true,
     loop: true,
