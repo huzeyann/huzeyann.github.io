@@ -6,11 +6,13 @@ body {
     font-weight: 200;
     background-color: #1a1a1a;
     color: #ffffff;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 #container-header {
   height: 100px;
-  background-color: #000000;
+  font-size: larger;
   color: #ffffff;
 }
 
