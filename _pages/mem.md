@@ -21,9 +21,9 @@ subtitle: null
 
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-<!-- <script src="{{ site.baseurl | prepend: site.url }}/typing.js">] -->
+<script src="{{ site.baseurl | prepend: site.url }}/typing.js"></script>
 
-
+<!-- 
 <script>
 window.onload = function() {
   new Typed('#typing-text', {
@@ -38,4 +38,4 @@ window.onload = function() {
     showCursor: false
   });
 };
-</script>
+</script> -->
