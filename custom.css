@@ -1,13 +1,13 @@
-/* body{
+body {
     font-family: Helvetica;
     margin: 0;
     padding: 0;
     line-height: 1.5;
     font-weight: 200;
-    background-color:rgb(255, 255, 255);
-    color:black;
-    /* background-image: linear-gradient(315deg, aqua 0%, purple 74%);
-}*/
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
 #container-header {
   height: 100px;
   background-color: #000000;
@@ -20,11 +20,6 @@
 
 #typing-text {
   color: #09AD94;
-}
-
-body {
-  background-color: #1a1a1a;
-  color: #ffffff;
 }
 
 a: link {
