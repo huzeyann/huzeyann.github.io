@@ -17,7 +17,6 @@ subtitle: null
   </div>
 
   <h1 style="margin-top: 100px;">Memory Encoding Model</h1>
-  <hr style="border-color: grey; width: fit-content; margin: auto;">
   <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee † &emsp; Jianbo Shi †</div>
 
   <div style="margin-top: 40px; ">
