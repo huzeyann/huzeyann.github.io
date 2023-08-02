@@ -17,9 +17,9 @@ subtitle: null
   </div>
 
   <h1 style="margin-top: 100px;">Memory Encoding Model</h1>
-  <h3 style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</h3>
+  <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee † &emsp; Jianbo Shi †</div>
 
-  <div style="margin-top: 20px; ">
+  <div style="margin-top: 40px; ">
     <p style="display: inline-block;">
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
