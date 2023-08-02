@@ -12,13 +12,13 @@ subtitle: null
     <img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
   </div>
   <div style="margin-top: 20px; text-align: center;">
-    <h3>Brain is able to...</h3>
-    <h3><span id="typing-text"></span></h3>
+    <h2>Brain is able to...</h2>
+    <h2><span id="typing-text"></span></h2>
   </div>
 
-  <h2 style="text-align: center; margin-top: 100px;">Memory Encoding Model</h2>
+  <h1 style="text-align: center; margin-top: 100px;">Memory Encoding Model</h1>
 
-  <div style="margin-top: 50px; text-align: center;">
+  <div style="margin-top: 20px; text-align: center;">
     <p style="display: inline-block;">
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Paper</a>
       <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">Video</a>
