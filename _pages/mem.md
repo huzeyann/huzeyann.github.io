@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: nan
 title: Mem
 permalink: /mem
 nav: false
