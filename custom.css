@@ -30,6 +30,11 @@ a: link {
   text-decoration: none;
 }
 
+h1 {
+  border-bottom: 1px solid #535353; 
+  line-height: 0.1em;
+}
+
 .circle-headshot {
   border: 2px solid gray;
   width: 50px;
