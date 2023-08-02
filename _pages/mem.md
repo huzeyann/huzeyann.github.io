@@ -11,7 +11,10 @@ subtitle: null
   <div style="text-align: center;">
     <img src="assets/custom_images/memory.png" width="80%" style="margin-left:10%; margin-right:10%">
   </div>
-  <div style="margin-top: 20px; text-align: center;">
+</div>
+
+<div style="margin-top: 20px; text-align: center;">
+  <div>
     <h2>Brain is able to...</h2>
     <h2><span id="typing-text"></span></h2>
   </div>
