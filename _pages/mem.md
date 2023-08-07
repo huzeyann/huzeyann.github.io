@@ -19,6 +19,7 @@ subtitle: null
   <h1 style="margin-top: 100px;">Memory Encoding Model</h1>
   <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</div>
   <div> University of Pennsylvania </div>
+  <div style="font-size: small"> *: co-advise </div>
 
   <div style="margin-top: 40px; font-size: large">
     <p style="display: inline-block;">
