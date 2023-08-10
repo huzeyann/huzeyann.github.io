@@ -24,7 +24,7 @@ subtitle: null
   <div style="margin-top: 40px; font-size: large">
     <p style="display: inline-block;">
       <a href="https://arxiv.org/abs/2308.01175" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
-      <a href="https://github.com/huzeyann/Mem" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
+      <a href="https://github.com/huzeyann/MemoryEncodingModel" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
       <a style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a>
       <a style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a>
       <a href="https://twitter.com/HuzeYann/status/1686908944965664771?s=20" style="text-decoration: underline; color: lightblue;">discussion</a>
