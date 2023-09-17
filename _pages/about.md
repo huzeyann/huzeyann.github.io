@@ -22,9 +22,9 @@ social: false  # includes social icons at the bottom of the page
 
 <br/>
 
-Phd student at University of Pennsylvania, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. I am interested in computer vision and the brain.
+CS PhD student at University of Pennsylvania, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. I do computer vision and computational neuroscience.
 
-<!-- Also, I am a content creator <a href="/gallery">gallery</a>. -->
+I hope my results make sense to you, or at least I hope you like my figures. “If you can't explain it to a six-year-old, then you don't understand it yourself”
 
 <hr/>
 
