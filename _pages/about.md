@@ -28,3 +28,9 @@ I hope my results make sense to you, or at least I hope you like my figures. “
 <hr/>
 
 音楽とイラストやっています。I play drum and maimai. 
+
+<hr/>
+
+<iframe src="https://github.com/huzeyann/MemoryEncodingModel" width="100%" height="500px"></iframe>
+
+<iframe src="https://github.com/huzeyann/huze_algonauts21" width="100%" height="500px"></iframe>
