@@ -24,7 +24,7 @@ CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/inde
 
 <br/>
 
-I hope my results make sense to you, or at least I hope you like my figures. Results in my paper are cherry picks, I don't have faith in the story I wrote, my failure results are more interesting. But failures are also more complex and it's hard to get them published, I'd be happy to discuss. 
+I hope my results make sense to you, or at least I hope you like my figures. Results in my paper are cherry picks, I don't have faith in the story I wrote, my failure results are more interesting. But failures are also more complex and it's hard to get them published, I'd be happy to discuss. I enjoy talking to people who write shit-ton of code.
 
 <hr/>
 
