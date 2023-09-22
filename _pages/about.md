@@ -20,13 +20,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. mainly computer vision and bit of neuroscience.
+CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"}, [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. mainly computer vision and scratch the surface of neuroscience.
 
 <br/>
 
-I hope my results make sense to you, or at least I hope you like my figures. “If you can't explain it to a six-year-old, then you don't understand it yourself”
+I hope my results make sense to you, or at least I hope you like my figures. Results in my paper are cherry picks, I don't have faith in the story I wrote, my failure results are more interesting. But failures are also more complex and it's hard to get them published, I'd be happy to discuss. 
 
 <hr/>
 
 音楽とイラストやっています。I play drum and maimai. 
-
