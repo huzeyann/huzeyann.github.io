@@ -1,0 +1,36 @@
+---
+layout: none
+title: Brain Decodes Deep Nets
+permalink: /brain-decodes-deep-nets
+nav: false
+subtitle: null
+---
+<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+  <div>
+    <img src="assets/custom_images/slides_teaser.png" width="80%" style="margin-left:10%; margin-right:10%">
+  </div>
+  <div style="margin-top: 20px;">
+    <h2>Brain Encoding Model...</h2>
+    <h2><span id="typing-text2"></span>|</h2>
+  </div>
+
+  <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
+  <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</div>
+  <div> University of Pennsylvania </div>
+  <div style="font-size: small"> *: co-advise </div>
+
+  <div style="margin-top: 40px; font-size: large">
+    <p style="display: inline-block;">
+      <a href="https://arxiv.org/abs/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
+      <a href="https://github.com/huzeyann/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
+      <a href="https://www.youtube.com/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a>
+      <!-- <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a> -->
+      <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a>
+    </p>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script src="{{ site.baseurl | prepend: site.url }}/typing2.js"></script>

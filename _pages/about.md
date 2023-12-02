@@ -24,7 +24,9 @@ CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/inde
 
 <br/>
 
-I hope my results make sense to you, or at least I hope you like my figures. Nice looking results in my paper are cherry picks, my failure results are more interesting.
+I hope my results make sense to you, or at least I hope you like my figures.
+
+Please check my paper appendix, nice looking results in main-text are cherry picks, my failure results are more interesting.
 
 <hr/>
 
