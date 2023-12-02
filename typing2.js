@@ -1,6 +1,6 @@
 window.onload = function() {
-  new Typed('#typing-text2', {
-    strings: ["predict brain response from input image", "paint deep-nets inner structure onto the brain"],
+  new Typed('#typing-text', {
+    strings: ["predict brain response", "explain deep nets"],
     typeSpeed: 50,
     // startDelay: 100,
     backDelay: 2000,

@@ -9,11 +9,11 @@ subtitle: null
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
   <div>
-    <img src="assets/custom_images/slides_teaser.png" width="80%" style="margin-left:10%; margin-right:10%">
+    <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div>
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 50px;">
     <h2>Brain Encoding Model...</h2>
-    <h2><span id="typing-text2"></span>|</h2>
+    <h2><span id="typing-text"></span>|</h2>
   </div>
 
   <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
