@@ -21,12 +21,12 @@ We developed a tool for visualizing and analyzing large pre-trained vision model
 Highlights: We found remarkable differences for same architecture models trained with different objectives, and same objective but larger model sizes.
 </div> -->
 
-<div style="margin-top:100px;">
-<h3> The brain is massive; Deep networks are massive. </h3>
-<h3> What can these two massive systems, tell about each other? </h3>
+<div style="margin-top:60px;">
+<h3> <em> The brain is massive; Deep networks are massive. </em> </h3>
+<h3> <em> What can these two massive systems, tell about each other? </em> </h3>
 </div>
 
-  <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
+  <h1 style="margin-top: 80px;">Brain Decodes Deep Nets</h1>
   <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</div>
   <div> University of Pennsylvania </div>
   <div style="font-size: small"> *: co-advise </div>
