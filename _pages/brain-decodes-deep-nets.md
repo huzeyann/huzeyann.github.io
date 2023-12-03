@@ -21,6 +21,11 @@ We developed a tool for visualizing and analyzing large pre-trained vision model
 Highlights: We found remarkable differences for same architecture models trained with different objectives, and same objective but larger model sizes.
 </div> -->
 
+<div style="margin-top:100px;">
+The brain is massive; Deep networks are massive.
+What can these two massive systems, tell about each other?
+</div>
+
   <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
   <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</div>
   <div> University of Pennsylvania </div>
@@ -29,7 +34,7 @@ Highlights: We found remarkable differences for same architecture models trained
   <div style="margin-top: 40px; font-size: large">
     <p style="display: inline-block;">
       <a href="https://arxiv.org/abs/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
-      <a href="https://github.com/huzeyann/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
+      <a href="https://github.com/huzeyann/BrainDecodesDeepNets" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
       <!-- <a href="https://www.youtube.com/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a> -->
       <!-- <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a> -->
       <!-- <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a> -->
