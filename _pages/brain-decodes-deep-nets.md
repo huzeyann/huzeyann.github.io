@@ -12,7 +12,7 @@ subtitle: null
     <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div> -->
 
-  <iframe width="1714" height="897" src="https://www.youtube.com/embed/WX7V2O6SnN4" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="80%" src="https://www.youtube.com/embed/WX7V2O6SnN4" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
   <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</div>
