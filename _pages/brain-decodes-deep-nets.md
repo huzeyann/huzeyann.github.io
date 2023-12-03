@@ -23,7 +23,8 @@ Highlights: We found remarkable differences for same architecture models trained
 
 <div style="margin-top:60px;">
 <h3> <em> The brain is massive; Deep networks are massive. </em> </h3>
-<h3> <em> What can these two massive systems, tell about each other? </em> </h3>
+<!-- <h3> <em> What can these two massive systems, tell about each other? </em> </h3> -->
+<h3> <em> <span id="typing-text2"></span> </em> </h3>
 </div>
 
   <h1 style="margin-top: 80px;">Brain Decodes Deep Nets</h1>
@@ -42,5 +43,5 @@ Highlights: We found remarkable differences for same architecture models trained
   </div>
 </div>
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script> -->
-<!-- <script src="{{ site.baseurl | prepend: site.url }}/typing2.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script src="{{ site.baseurl | prepend: site.url }}/typing2.js"></script>
