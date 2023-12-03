@@ -14,6 +14,13 @@ subtitle: null
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/WX7V2O6SnN4" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div style="margin-top:100px;">
+We developed a tool for visualizing and analyzing large pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. 
+</div>
+<div>
+Highlights: We found remarkable differences for same architecture models trained with different objectives, and same objective but larger model sizes.
+</div>
+
   <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
   <div style="margin-top: 0px;">Huzheng Yang &emsp; James Gee* &emsp; Jianbo Shi*</div>
   <div> University of Pennsylvania </div>
