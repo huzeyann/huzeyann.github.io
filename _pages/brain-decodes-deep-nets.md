@@ -22,8 +22,8 @@ Highlights: We found remarkable differences for same architecture models trained
 </div> -->
 
 <div style="margin-top:100px;">
-The brain is massive; Deep networks are massive.
-What can these two massive systems, tell about each other?
+<h3> The brain is massive; Deep networks are massive. </h3>
+<h3> What can these two massive systems, tell about each other? </h3>
 </div>
 
   <h1 style="margin-top: 100px;">Brain Decodes Deep Nets</h1>
