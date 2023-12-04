@@ -50,7 +50,6 @@ Before joining academia, I was at CNSS DevOps team.
                         <b>Brain Decodes Deep Nets</b> <br>
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee, Jianbo Shi<br>
-                        <br>
                         Nov. 2023 <br>
                         arxiv <br>
                         [<a href="https://arxiv.org/abs/TODO">Paper</a>]
@@ -69,7 +68,6 @@ Before joining academia, I was at CNSS DevOps team.
                         <b>Memory Encoding Model</b> <br>
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee, Jianbo Shi<br>
-                        <br>
                         Aug. 2023 <br>
                         arxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/archive.html">Algonauts 2023 challenge winner</a></em></b> <br>
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
@@ -88,7 +86,6 @@ Before joining academia, I was at CNSS DevOps team.
                         <b>Retinotopy Inspired Brain Encoding Model and the All-for-One Training Recipe</b> <br>
                         <span style="font-size: 10pt;">
                         Huzheng Yang, Jianbo Shi, James Gee<br>
-                        <br>
                         May. 2023 <br>
                         arxiv, <em>rejected to NeurIPS</em> <br>
                         [<a href="https://arxiv.org/abs/2307.14021">Paper</a>]
@@ -116,7 +113,6 @@ Before joining academia, I was at CNSS DevOps team.
                 <b>Effective Ensemble of Deep Neural Networks Predicts Neural Responses to Naturalistic Videos</b> <br>
                 <span style="font-size: 10pt;">
                 Huzheng Yang, Shanghang Zhang, Yifan Wu, Yuanning Li, Shi Gu<br>
-                <br>
                 Aug. 2021 <br>
                 bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
@@ -134,7 +130,6 @@ Before joining academia, I was at CNSS DevOps team.
                 <b>Upgrading Voxel-wise Encoding Model via Integrated Integration over Features and Brain Networks</b> <br>
                 <span style="font-size: 10pt;">
                 Yuanning Li, Huzheng Yang, Shi Gu<br>
-                <br>
                 Nov. 2022 <br>
                 bioRxiv, <em>Algonauts 2021</em> <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2022.11.06.515387v1.abstract">Paper</a>]
