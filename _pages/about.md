@@ -74,7 +74,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                 </tr>
                 <tr>
                     <td width="30%" align="center">
-                        <img width="225" align="middle" src="assets/custom_images/small_brain.gif" border="0"> &nbsp;
+                        <img width="225" align="middle" src="assets/custom_images/small_rm.gif" border="0"> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
@@ -92,7 +92,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
 
             </tbody></table>
             
-</span></span></span></span></span></span></span></font></font>
+</font>
 
 <h2>Early Work </h2>
 
@@ -137,7 +137,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
 
     </tbody></table>
     
-</span></span></span></span></span></span></span></font></font>
+</font>
 
 <hr>
 
