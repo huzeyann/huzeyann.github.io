@@ -26,6 +26,8 @@ CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/inde
 
 I hope my results make sense to you, or at least I hope you like my figures. Please check my paper appendix, nice looking results in main-text are cherry picks, my failure results are more interesting.
 
+Before joining academia, I was at CNSS DevOps team.
+
 <br/>
 
 音楽とイラストやっています。I play drum and maimai. 
@@ -73,7 +75,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
                         [<a href="https://huzeyann.github.io/mem">Webpage</a>]
                         [<a href="https://github.com/huzeyann/MemoryEncodingModel">GitHub</a>]
-                        [<a href="https://www.youtube.com/live/9Xh55mcWJeE?si=aCdlPM1MnBaainIF&t=3343">Talk</a>]
+                        [<a href="https://www.youtube.com/live/9Xh55mcWJeE?si=aCdlPM1MnBaainIF&t=3343">Talk at CCN2023</a>]
                         <br>
                     </span></span></td>
                 </tr>
@@ -119,7 +121,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                 bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
                 [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
-                [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk</a>]
+                [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk at CCN2021</a>]
                 <br>
             </span></span></td>
         </tr>
