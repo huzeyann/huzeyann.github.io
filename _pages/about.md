@@ -26,9 +26,11 @@ CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/inde
 
 I hope my results make sense to you, or at least I hope you like my figures. Please check my paper appendix, nice looking results in main-text are cherry picks, my failure results are more interesting.
 
+<br/>
+
 音楽とイラストやっています。I play drum and maimai. 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <hr>
 
@@ -86,7 +88,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                         Huzheng Yang, Jianbo Shi, James Gee<br>
                         <br>
                         May. 2023 <br>
-                        arxiv, rejected to NeurIPS <br>
+                        arxiv, <em>rejected to NeurIPS</em> <br>
                         [<a href="https://arxiv.org/abs/2307.14021">Paper</a>]
                         <br>
                     </span></span></td>
@@ -97,6 +99,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
             
 </font>
 
+<hr>
 <h2>Early Work </h2>
 
 <font face="helvetica, ariel, 'sans serif'">
@@ -131,7 +134,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                 Yuanning Li, Huzheng Yang, Shi Gu<br>
                 <br>
                 Nov. 2022 <br>
-                bioRxiv, Algonauts 2021 <br>
+                bioRxiv, <em>Algonauts 2021</em> <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2022.11.06.515387v1.abstract">Paper</a>]
                 [<a href="https://github.com/huzeyann/htROI-neural-encoding">GitHub</a>]
                 <br>
