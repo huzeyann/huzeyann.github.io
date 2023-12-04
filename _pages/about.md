@@ -67,7 +67,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                         Huzheng Yang, James Gee, Jianbo Shi<br>
                         <br>
                         Aug. 2023 <br>
-                        arxiv, <b><u><a href="http://algonauts.csail.mit.edu/archive.html">Algonauts 2023 challenge winner</a></u></b> <br>
+                        arxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/archive.html">Algonauts 2023 challenge winner</a></em></b> <br>
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
                         [<a href="https://huzeyann.github.io/mem">Webpage</a>]
                         [<a href="https://github.com/huzeyann/MemoryEncodingModel">GitHub</a>]
@@ -113,7 +113,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                 Huzheng Yang, Shanghang Zhang, Yifan Wu, Yuanning Li, Shi Gu<br>
                 <br>
                 Aug. 2021 <br>
-                bioRxiv, <b><u><a href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></u></b> <br>
+                bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
                 [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
                 [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk</a>]
@@ -131,7 +131,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                 Yuanning Li, Huzheng Yang, Shi Gu<br>
                 <br>
                 Nov. 2022 <br>
-                biorxiv, Algonauts 2021 <br>
+                bioRxiv, Algonauts 2021 <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2022.11.06.515387v1.abstract">Paper</a>]
                 [<a href="https://github.com/huzeyann/htROI-neural-encoding">GitHub</a>]
                 <br>
