@@ -43,7 +43,7 @@ Before joining academia, I was at CNSS DevOps team.
 				<tbody>
                 <tr>
                     <td width="30%" align="center">
-                        <img width="225" align="middle" src="assets/custom_images/bddn.png" border="0"> &nbsp;
+                        <img width="225" align="middle" src="assets/custom_images/bddn.jpg" border="0"> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
