@@ -28,6 +28,8 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
 
 音楽とイラストやっています。I play drum and maimai. 
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <hr>
 
 <h2>Publications </h2>
@@ -64,7 +66,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                         Huzheng Yang, James Gee, Jianbo Shi<br>
                         <br>
                         Aug. 2023 <br>
-                        arxiv, <b>Algonauts 2023 challenge winner</b> <br>
+                        arxiv, <b><u>Algonauts 2023 challenge winner</u></b> <br>
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
                         [<a href="https://huzeyann.github.io/mem">Webpage</a>]
                         [<a href="https://github.com/huzeyann/MemoryEncodingModel">GitHub</a>]
@@ -110,7 +112,7 @@ I hope my results make sense to you, or at least I hope you like my figures. Ple
                 Huzheng Yang, Shanghang Zhang, Yifan Wu, Yuanning Li, Shi Gu<br>
                 <br>
                 Aug. 2021 <br>
-                bioRxiv, <b>Algonauts 2021 challenge winner</b> <br>
+                bioRxiv, <b><u>Algonauts 2021 challenge winner</u></b> <br>
                 [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
                 [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
                 [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk</a>]
