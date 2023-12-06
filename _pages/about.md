@@ -20,17 +20,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-CS PhD, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"}, [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. mainly computer vision and scratch the surface of neuroscience, nerding out on <b>brain encoding models</b>.
+PhD student at University of Pennsylvania, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} & [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. 
+
+I have been nerding out on <b>Brain Encoding Models</b> since we met. I work on computer vision and computational neuroscience.
+
+before joining academia, I was at CNSS DevOps team. We had great fun in CTF and Hackathon.
 
 <br/>
 
-I hope you like my figures. Please check my paper appendix, nice looking results in main-text are cherry picks, my failure results are more interesting.
-
-Before joining academia, I was at CNSS DevOps team.
-
-<br/>
-
-音楽とイラストやっています。I have thousands of hours on maimai and drum. 
+I play rhythm game and instruments when research doesn't work. 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -95,55 +93,42 @@ This page only list publications with extra materials such as code and video. Fo
                         <br>
                     </span></span></td>
                 </tr>
+                <tr>
+                    <td width="30%" align="center">
+                        <img width="225" align="middle" src="assets/custom_images/me_fmri.jpg" border="0"> &nbsp;
+                    </td>
+                    <td>
+                        <span style="font-size: 12pt;">
+                        <b>Upgrading Voxel-wise Encoding Model via Integrated Integration over Features and Brain Networks</b> <br>
+                        <span style="font-size: 10pt;">
+                        Yuanning Li*, Huzheng Yang*, Shi Gu<br>
+                        Nov. 2022 <br>
+                        bioRxiv, <em>Algonauts 2021</em> <br>
+                        [<a href="https://www.biorxiv.org/content/10.1101/2022.11.06.515387v1.abstract">Paper</a>]
+                        [<a href="https://github.com/huzeyann/htROI-neural-encoding">GitHub</a>]
+                        <br>
+                    </span></span></td>
+                </tr>
+                <tr>
+                    <td width="30%" align="center">
+                        <img width="225" align="middle" src="assets/custom_images/forg.jpg" border="0"> &nbsp;
+                    </td>
+                    <td>
+                        <span style="font-size: 12pt;">
+                        <b>Effective Ensemble of Deep Neural Networks Predicts Neural Responses to Naturalistic Videos</b> <br>
+                        <span style="font-size: 10pt;">
+                        Huzheng Yang, Shanghang Zhang, Yifan Wu, Yuanning Li*, Shi Gu*<br>
+                        Aug. 2021 <br>
+                        bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
+                        [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
+                        [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
+                        [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk at CCN2021</a>]
+                        <br>
+                    </span></span></td>
+                </tr>
+
 
 
             </tbody></table>
             
 </font>
-
-<hr>
-<h2>Early Work </h2>
-
-<font face="helvetica, ariel, 'sans serif'">
-    <table cellspacing="15">
-        <tbody>
-        <tr>
-            <td width="30%" align="center">
-                <img width="225" align="middle" src="assets/custom_images/forg.jpg" border="0"> &nbsp;
-            </td>
-            <td>
-                <span style="font-size: 12pt;">
-                <b>Effective Ensemble of Deep Neural Networks Predicts Neural Responses to Naturalistic Videos</b> <br>
-                <span style="font-size: 10pt;">
-                Huzheng Yang, Shanghang Zhang, Yifan Wu, Yuanning Li*, Shi Gu*<br>
-                Aug. 2021 <br>
-                bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
-                [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
-                [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
-                [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk at CCN2021</a>]
-                <br>
-            </span></span></td>
-        </tr>
-        <tr>
-            <td width="30%" align="center">
-                <img width="225" align="middle" src="assets/custom_images/me_fmri.jpg" border="0"> &nbsp;
-            </td>
-            <td>
-                <span style="font-size: 12pt;">
-                <b>Upgrading Voxel-wise Encoding Model via Integrated Integration over Features and Brain Networks</b> <br>
-                <span style="font-size: 10pt;">
-                Yuanning Li*, Huzheng Yang*, Shi Gu<br>
-                Nov. 2022 <br>
-                bioRxiv, <em>Algonauts 2021</em> <br>
-                [<a href="https://www.biorxiv.org/content/10.1101/2022.11.06.515387v1.abstract">Paper</a>]
-                [<a href="https://github.com/huzeyann/htROI-neural-encoding">GitHub</a>]
-                <br>
-            </span></span></td>
-        </tr>
-
-    </tbody></table>
-    
-</font>
-
-<hr>
-
