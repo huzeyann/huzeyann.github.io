@@ -14,7 +14,7 @@ subtitle: null
 
 <!-- <iframe width="800" height="450" src="https://www.youtube.com/embed/1ZITyYGNLz0" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 <div>
-  <img src="assets/custom_images/slides_teaser.png" width="800" style="margin-left:10%; margin-right:10%">
+  <img src="assets/custom_images/slides_teaser.png" width="90%" class="center">
 </div>
 
 
