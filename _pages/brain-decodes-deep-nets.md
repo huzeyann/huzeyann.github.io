@@ -12,7 +12,11 @@ subtitle: null
     <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div> -->
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/1ZITyYGNLz0" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="800" height="450" src="https://www.youtube.com/embed/1ZITyYGNLz0" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<div>
+  <img src="assets/custom_images/slides_teaser.png" width="800" style="margin-left:10%; margin-right:10%">
+</div>
+
 
 <!-- <div style="margin-top:100px;">
 We developed a tool for visualizing and analyzing large pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. 
@@ -22,7 +26,7 @@ Highlights: We found remarkable differences for same architecture models trained
 </div> -->
 
 <div style="margin-top:30px;">
-<h2> <em> The brain is massive; Deep networks are massive. </em> </h2>
+<h2> <em> Brain is massive; Deep nets are massive. </em> </h2>
 <!-- <h3> <em> What can these two massive systems, tell about each other? </em> </h3> -->
 <h2> <a style="color:#09AD94;"> <em> <span id="typing-text2"></span> </em>|</a></h2>
 </div>
@@ -36,7 +40,7 @@ Highlights: We found remarkable differences for same architecture models trained
     <p style="display: inline-block;">
       <a href="https://arxiv.org/abs/2312.01280" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
       <a href="https://github.com/huzeyann/BrainDecodesDeepNets" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
-      <!-- <a href="https://www.youtube.com/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a> -->
+      <a href="https://youtu.be/1ZITyYGNLz0" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a>
       <!-- <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a> -->
       <!-- <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a> -->
     </p>
