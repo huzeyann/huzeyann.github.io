@@ -12,8 +12,9 @@ subtitle: null
     <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div> -->
 
-
+<div style="margin-top:30px;">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/1ZITyYGNLz0" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <!-- <div style="margin-top:100px;">
 We developed a tool for visualizing and analyzing large pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. 
@@ -42,13 +43,34 @@ Highlights: We found remarkable differences for same architecture models trained
       <!-- <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a> -->
     </p>
   </div>
+
+  <div style="margin-top:50px;">
+
+  <h3> TL;DR </h3>
+  <div> We visualize pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Visualization is a by-product of brain encoding model: predict brain fMRI measurements in response to images. </div>
+
+  <div><img width="800" align="middle" src="assets/custom_images/bddn_fig1.png" border="0"></div>
+
+  <h3> Methods </h3>
+  <div>Brain encoding model over-simplified:   1. *input* image, extract features from pre-trained deep nets. 2. *feature selection* for each brain voxel (FactorTopy). 3. linear transformation on selected feature, *output* each brain voxel.</div>
+
+  <h4> Findings </h3>
+  <div>1. Inner layer layouts of supervised and un-supervised models are different. 2. Larger model have less efficient inner layer layout (expect for CLIP). 3. Fine-tuning on small datasets change the layer layouts.</div>
+  
+  <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
+
+  <div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
+
+  
+  </div>
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
 <script src="{{ site.baseurl | prepend: site.url }}/typing2.js"></script>
 
 
-
+<!-- 
 
 **TL;DR**: We visualize pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Visualization is a by-product of brain encoding model: predict brain fMRI measurements in response to images.
 
@@ -75,4 +97,4 @@ Our analysis and visualization shows:
 <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
 
 <div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
-
+ -->
