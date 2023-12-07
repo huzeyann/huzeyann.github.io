@@ -7,7 +7,8 @@ subtitle: null
 ---
 <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+<!-- <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;"> -->
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <!-- <div>
     <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div> -->
@@ -54,7 +55,11 @@ Highlights: We found remarkable differences for same architecture models trained
   <h3> Methods </h3>
   <div>Brain encoding model over-simplified:   1. *input* image, extract features from pre-trained deep nets. 2. *feature selection* for each brain voxel (FactorTopy). 3. linear transformation on selected feature, *output* each brain voxel.</div>
 
-  <h4> Findings </h3>
+  <div>The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?".</div>
+
+  <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
+
+  <h3> Findings </h3>
   <div>1. Inner layer layouts of supervised and un-supervised models are different. 2. Larger model have less efficient inner layer layout (expect for CLIP). 3. Fine-tuning on small datasets change the layer layouts.</div>
   
   <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
