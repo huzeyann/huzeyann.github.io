@@ -52,7 +52,7 @@ Highlights: We found remarkable differences for same architecture models trained
 
 **TL;DR**: We visualize pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Visualization is a by-product of brain encoding model: predict brain fMRI measurements in response to images.
 
-{% include figure.html path="assets/custom_images/bddn_fig1.png" class="img-fluid rounded z-depth-1" %}
+<div><img width="800" align="middle" src="assets/custom_images/bddn_fig1.png" border="0"></div>
 
 
 ### Methods
@@ -63,7 +63,7 @@ Highlights: We found remarkable differences for same architecture models trained
 
 The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?". 
 
-<img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"> 
+<div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
 
 ### Results
 Our analysis and visualization shows:
@@ -72,6 +72,7 @@ Our analysis and visualization shows:
 3. Fine-tuning on small datasets change the layer layouts.
 
 
-{% include figure.html path="assets/custom_images/layer_selectors.png" class="img-fluid rounded z-depth-1" %}
+<div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
 
-{% include figure.html path="assets/custom_images/channel_big.png" class="img-fluid rounded z-depth-1" %}
+<div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
+
