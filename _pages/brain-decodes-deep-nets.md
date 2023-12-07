@@ -56,9 +56,11 @@ Highlights: We found remarkable differences for same architecture models trained
 
   <h3> Methods </h3>
   <div><em>Brain encoding model over-simplified: </em></div>
-  <div><em>input</em> image, extract features from pre-trained deep nets</div>
-  <div><em>feature selection</em> for each brain voxel (FactorTopy)</div>
-  <div>linear transformation on selected feature, <em>output</em> each brain voxel</div> 
+  <ol>
+  <li><em>input</em> image, extract features from pre-trained deep nets</li>
+  <li><em>feature selection</em> for each brain voxel (FactorTopy)</li>
+  <li>linear transformation on selected feature, <em>output</em> each brain voxel</li> 
+  <ol>
 
   <!-- <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
   <div>The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?".</div> -->
