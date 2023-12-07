@@ -55,7 +55,7 @@ Highlights: We found remarkable differences for same architecture models trained
 
 
   <h3> Methods </h3>
-  <div><em><b>Brain encoding model</b> over-simplified: </em></div>
+  <div><em>Brain encoding model over-simplified: </em></div>
   <div><em>input</em> image, extract features from pre-trained deep nets</div>
   <div><em>feature selection</em> for each brain voxel (FactorTopy)</div>
   <div>linear transformation on selected feature, <em>output</em> each brain voxel</div> 
