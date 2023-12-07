@@ -25,7 +25,7 @@ Highlights: We found remarkable differences for same architecture models trained
 </div> -->
 
 <div style="margin-top:30px;">
-<h2> <em> The brain is massive; Deep networks are massive. </em> </h2>
+<h2> <em> Brain is massive; Deep nets are massive. </em> </h2>
 <!-- <h3> <em> What can these two massive systems, tell about each other? </em> </h3> -->
 <h2> <a style="color:#09AD94;"> <em> <span id="typing-text2"></span> </em>|</a></h2>
 </div>

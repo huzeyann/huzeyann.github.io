@@ -1,6 +1,6 @@
 window.onload = function() {
   new Typed('#typing-text2', {
-    strings: ["What can these two massive systems, tell about each other?"],
+    strings: ["What can brain and deep nets, tell about each other?"],
     typeSpeed: 50,
     // startDelay: 100,
     backDelay: 2000,
