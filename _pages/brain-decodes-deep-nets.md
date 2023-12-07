@@ -64,7 +64,7 @@ Highlights: We found remarkable differences for same architecture models trained
   <div>The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?".</div> -->
 
   <h3> Findings </h3>
-  <h4><u>same ViT architecture</u> for all models</h4>
+  <h4>same ViT architecture for all models</h4>
   <div>1. Inner layer layouts of supervised and un-supervised models are different</div>
   <div>2. Larger model have less efficient inner layer layout (expect for CLIP)</div>
   <div>3. Fine-tuning on small datasets change the layer layouts</div>
