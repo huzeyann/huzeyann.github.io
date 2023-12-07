@@ -27,7 +27,7 @@ subtitle: null
       <a href="https://github.com/huzeyann/MemoryEncodingModel" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
       <a href="https://www.youtube.com/live/9Xh55mcWJeE?si=aCdlPM1MnBaainIF&t=3343" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a>
       <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a>
-      <a href="https://twitter.com/HuzeYann/status/1686908944965664771?s=20" style="text-decoration: underline; color: lightblue;">discussion</a>
+      <a href="https://twitter.com/HuzeYann/status/1686908944965664771?s=20" style="text-decoration: underline; color: lightblue;">twitter</a>
     </p>
   </div>
 </div>

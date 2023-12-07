@@ -39,13 +39,14 @@ Highlights: We found remarkable differences for same architecture models trained
     <p style="display: inline-block;">
       <a href="https://arxiv.org/abs/2312.01280" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
       <a href="https://github.com/huzeyann/BrainDecodesDeepNets" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
+      <a href="https://twitter.com/HuzeYann/status/1731921097203790141?s=20" style="text-decoration: underline; color: lightblue;">twitter</a>
       <!-- <a href="https://www.youtube.com/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a> -->
       <!-- <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a> -->
       <!-- <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a> -->
     </p>
   </div>
 
-  <div style="margin-top:50px;">
+  <!-- <div style="margin-top:50px;">
 
   <h3> TL;DR </h3>
   <div> We visualize pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Visualization is a by-product of brain encoding model: predict brain fMRI measurements in response to images. </div>
@@ -74,7 +75,7 @@ Highlights: We found remarkable differences for same architecture models trained
   <div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
 
   
-  </div>
+  </div> -->
 
 </div>
 
