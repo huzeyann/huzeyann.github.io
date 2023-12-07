@@ -56,18 +56,18 @@ Highlights: We found remarkable differences for same architecture models trained
 
   <h3> Methods </h3>
   <div><em><b>Brain encoding model</b> over-simplified: </em></div>
-  <div style="margin-left: 100px"><em>input</em> image, extract features from pre-trained deep nets</div>
-  <div style="margin-left: 100px"><em>feature selection</em> for each brain voxel (FactorTopy)</div>
-  <div style="margin-left: 100px">linear transformation on selected feature, <em>output</em> each brain voxel</div> 
+  <div><em>input</em> image, extract features from pre-trained deep nets</div>
+  <div><em>feature selection</em> for each brain voxel (FactorTopy)</div>
+  <div>linear transformation on selected feature, <em>output</em> each brain voxel</div> 
 
   <!-- <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
   <div>The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?".</div> -->
 
   <h3> Findings </h3>
   <div><em>same ViT architecture</em> for all models</div>
-  <div style="margin-left: 100px">Inner layer layouts of supervised and un-supervised models are different</div>
-  <div style="margin-left: 100px">Larger model have less efficient inner layer layout (expect for CLIP)</div>
-  <div style="margin-left: 100px">Fine-tuning on small datasets change the layer layouts</div>
+  <div>Inner layer layouts of supervised and un-supervised models are different</div>
+  <div>Larger model have less efficient inner layer layout (expect for CLIP)</div>
+  <div>Fine-tuning on small datasets change the layer layouts</div>
   
   <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
 
