@@ -51,16 +51,27 @@ Highlights: We found remarkable differences for same architecture models trained
   <div> We visualize pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Visualization is a by-product of brain encoding model: predict brain fMRI measurements in response to images. </div>
 
   <div><img width="800" align="middle" src="assets/custom_images/bddn_fig1.png" border="0"></div>
+  <div>The intuitive understanding for our visualization is: each brain voxel do feature selection, "which network **layer/space/scale/channel** best predicts my brain response?".</div>
+
 
   <h3> Methods </h3>
-  <div>Brain encoding model over-simplified:   1. *input* image, extract features from pre-trained deep nets. 2. *feature selection* for each brain voxel (FactorTopy). 3. linear transformation on selected feature, *output* each brain voxel.</div>
+  <div><em><b>Brain encoding model</b> over-simplified: </em></div>
+  <ol>
+    <li><em>input</em> image, extract features from pre-trained deep nets</li>
+    <li><em>feature selection</em> for each brain voxel (FactorTopy)</li>
+    <li>linear transformation on selected feature, <em>output</em> each brain voxel</li>
+  </ol> 
 
-  <div>The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?".</div>
-
-  <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
+  <!-- <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
+  <div>The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?".</div> -->
 
   <h3> Findings </h3>
-  <div>1. Inner layer layouts of supervised and un-supervised models are different. 2. Larger model have less efficient inner layer layout (expect for CLIP). 3. Fine-tuning on small datasets change the layer layouts.</div>
+  <div><em>same ViT architecture</em> for all models</div>
+  <ol>
+    <li>Inner layer layouts of supervised and un-supervised models are different</li>
+    <li>Larger model have less efficient inner layer layout (expect for CLIP)</li>
+    <li>Fine-tuning on small datasets change the layer layouts</li>
+  </ol>
   
   <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
 
