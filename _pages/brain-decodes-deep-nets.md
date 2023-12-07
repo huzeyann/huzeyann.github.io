@@ -54,6 +54,7 @@ Highlights: We found remarkable differences for same architecture models trained
 
 {% include figure.html path="assets/custom_images/bddn_fig1.png" class="img-fluid rounded z-depth-1" %}
 
+
 ### Methods
 **Brain encoding model** over-simplified: 
 1. *input* image, extract features from pre-trained deep nets
