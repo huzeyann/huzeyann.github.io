@@ -88,7 +88,12 @@ Highlights: We found remarkable differences for same architecture models trained
 <br/><br/><br/><br/><br/>
 
 
-The main story is: *visualize pre-trained vision models by mapping model onto the brain*. 
+## Main Story 
+
+## *visualize pre-trained vision models by mapping model onto the brain*.
+
+<br/><br/>
+
 
 Visualization (*Brain-to-Network Alignment*) is a by-product of brain encoding model, each brain voxel selects:
 
@@ -115,14 +120,14 @@ Brian-to-Network alignment shows:
 2. Larger model have less efficient inner layer layout.
 3. Fine-tuning on small datasets change existing brain-to-network alignment.
 
-### Takeaway
-Brain-to-Network alignment could be a way to find modular and generalizable model, we found CLIP has the best brain-net alignment: 
-1. Align with brain's hierarchical layout.
-2. Better brain-net alignment when scaled up size and data.
-3. Least catastrophic forgetting in finetuning.
 
 
 <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
 
 <div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
 
+### Takeaway
+Brain-to-Network alignment could be a way to find modular and generalizable model, we found CLIP has the best brain-net alignment: 
+1. Align with brain's hierarchical layout.
+2. Better brain-net alignment when scaled up size and data.
+3. Least catastrophic forgetting in finetuning.
