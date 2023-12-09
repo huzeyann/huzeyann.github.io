@@ -46,6 +46,8 @@ Highlights: We found remarkable differences for same architecture models trained
     </p>
   </div>
 
+  
+
   <!-- <div style="margin-top:50px;">
 
   <h3> TL;DR </h3>
@@ -83,31 +85,44 @@ Highlights: We found remarkable differences for same architecture models trained
 <script src="{{ site.baseurl | prepend: site.url }}/typing2.js"></script>
 
 
-<!-- 
+<br/><br/><br/><br/><br/>
 
-**TL;DR**: We visualize pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Visualization is a by-product of brain encoding model: predict brain fMRI measurements in response to images.
+
+The main story is: *visualize pre-trained vision models by mapping model onto the brain*. 
+
+Visualization (*Brain-to-Network Alignment*) is a by-product of brain encoding model, each brain voxel selects:
+
+1. "which <strong>layer</strong> best predicts my brain response?"
+2. "which <strong>space</strong> best predicts my brain response?"
+3. "which <strong>scale</strong> best predicts my brain response?"
+4. "which <strong>channel</strong> best predicts my brain response?"
 
 <div><img width="800" align="middle" src="assets/custom_images/bddn_fig1.png" border="0"></div>
+> The intuitive understanding for our visualization is: each brain voxel asks the question, "which network *layer/space/scale/channel* best predicts my brain response?". 
 
 
 ### Methods
-**Brain encoding model** over-simplified: 
+*Brain encoding model* over-simplified: 
 1. *input* image, extract features from pre-trained deep nets
-2. *feature selection* for each brain voxel (FactorTopy)
-3. linear transformation on selected feature, *output* each brain voxel
-
-The intuitive understanding for our visualization is: each brain voxel asks the question, "which network **layer/space/scale/channel** best predicts my brain response?". 
+2. *feature selection* for each brain voxel
+3. linear regression on selected features, *output* each brain voxel
 
 <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
 
 ### Results
-Our analysis and visualization shows:
+Brian-to-Network alignment shows:
 1. Inner layer layouts of supervised and un-supervised models are different.
 2. Larger model have less efficient inner layer layout.
-3. Fine-tuning on small datasets change the layer layouts.
+3. Fine-tuning on small datasets change existing brain-to-network alignment.
+
+### Takeaway
+Brain-to-Network alignment could be a way to find modular and generalizable model, we found CLIP has the best brain-net alignment: 
+1. Align with brain's hierarchical layout.
+2. Better brain-net alignment when scaled up size and data.
+3. Least catastrophic forgetting in finetuning.
 
 
 <div><img width="800" align="middle" src="assets/custom_images/layer_selectors.png" border="0"></div>
 
 <div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
- -->
+
