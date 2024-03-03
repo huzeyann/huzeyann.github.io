@@ -51,11 +51,11 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         Nov. 2023 <br>
-                        arxiv <br>
+                        CVPR'24 <br>
                         [<a href="https://arxiv.org/abs/2312.01280">Paper</a>]
                         [<a href="https://huzeyann.github.io/brain-decodes-deep-nets">Webpage</a>]
                         [<a href="https://github.com/huzeyann/BrainDecodesDeepNets">GitHub</a>]
-                        [<a href="https://youtu.be/1ZITyYGNLz0">Video</a>]
+                        [<a href="https://youtu.be/bLgcfVN3hU4">Talk online</a>]
                         <br>
                     </span></span></td>
                 </tr>
@@ -73,7 +73,7 @@ This page only list publications with extra materials such as code and video. Fo
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
                         [<a href="https://huzeyann.github.io/mem">Webpage</a>]
                         [<a href="https://github.com/huzeyann/MemoryEncodingModel">GitHub</a>]
-                        [<a href="https://www.youtube.com/live/9Xh55mcWJeE?si=aCdlPM1MnBaainIF&t=3343">Talk at CCN2023</a>]
+                        [<a href="https://www.youtube.com/live/9Xh55mcWJeE?si=aCdlPM1MnBaainIF&t=3343">Talk CCN'23</a>]
                         <br>
                     </span></span></td>
                 </tr>
@@ -87,7 +87,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, Jianbo Shi*, James Gee*<br>
                         May. 2023 <br>
-                        arxiv, <em>rejected to NeurIPS</em> <br>
+                        arxiv, <em>rejected by NeurIPS</em> <br>
                         [<a href="https://arxiv.org/abs/2307.14021">Paper</a>]
                         [<a href="TODO">Openreview</a>]
                         <br>
@@ -122,7 +122,7 @@ This page only list publications with extra materials such as code and video. Fo
                         bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
                         [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
                         [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
-                        [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk at CCN2021</a>]
+                        [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk CCN'21</a>]
                         <br>
                     </span></span></td>
                 </tr>

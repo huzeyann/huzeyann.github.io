@@ -14,7 +14,7 @@ subtitle: null
   </div> -->
 
 <div style="margin-top:30px;">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/1ZITyYGNLz0" title="Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/bLgcfVN3hU4" title="Brain Decodes Deep Nets, CVPR 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- <div style="margin-top:100px;">
@@ -37,10 +37,10 @@ Highlights: We found remarkable differences for same architecture models trained
 
   <div style="margin-top: 40px; font-size: large">
     <p style="display: inline-block;">
-      <a href="https://arxiv.org/abs/2312.01280" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
+      <a href="https://arxiv.org/abs/2312.01280" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper[CVPR'24]</a>
       <a href="https://github.com/huzeyann/BrainDecodesDeepNets" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
       <a href="https://twitter.com/HuzeYann/status/1731921097203790141?s=20" style="text-decoration: underline; color: lightblue;">twitter</a>
-      <!-- <a href="https://www.youtube.com/TODO" style="text-decoration: underline; color: lightblue; margin-right: 10px;">video</a> -->
+      <a href="https://youtu.be/bLgcfVN3hU4" style="text-decoration: underline; color: lightblue; margin-right: 10px;">talk online</a>
       <!-- <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a> -->
       <!-- <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a> -->
     </p>
