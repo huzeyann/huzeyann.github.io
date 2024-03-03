@@ -12,9 +12,18 @@ subtitle: null
   <!-- <div>
     <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div> -->
+<!-- <div style="margin-top:30px;">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/aKGO7Qd93_w?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1​" title="[2min paper] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div> -->
+
 <div style="margin-top:30px;">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/aKGO7Qd93_w?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1​" title="[CVPR 2024] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video width="800" height="450" controls muted autoplay>
+  <source src="assets/videos/brain_decodes_deep_nets_2min.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/aKGO7Qd93_w?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1​" title="[2min paper] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</video>
 </div>
+
 
 <!-- <div style="margin-top:100px;">
 We developed a tool for visualizing and analyzing large pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. 
