@@ -17,7 +17,7 @@ subtitle: null
 </div> -->
 
 <div style="margin-top:30px;">
-<video width="800" height="450" controls muted autoplay>
+<video width="800" height="450" controls muted autoplay loop>
   <source src="assets/videos/brain_decodes_deep_nets_2min.mp4" type="video/mp4">
   Your browser does not support the video tag.
   <iframe width="800" height="450" src="https://www.youtube.com/embed/aKGO7Qd93_w?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1​" title="[2min paper] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
