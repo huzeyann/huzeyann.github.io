@@ -55,7 +55,7 @@ This page only list publications with extra materials such as code and video. Fo
                         [<a href="https://arxiv.org/abs/2312.01280">Paper</a>]
                         [<a href="https://huzeyann.github.io/brain-decodes-deep-nets">Webpage</a>]
                         [<a href="https://github.com/huzeyann/BrainDecodesDeepNets">GitHub</a>]
-                        [<a href="https://youtu.be/bLgcfVN3hU4">Talk online</a>]
+                        [<a href="https://youtu.be/Qh49zQQCW1g">Talk online</a>]
                         <br>
                     </span></span></td>
                 </tr>
@@ -103,8 +103,8 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Yuanning Li*, Huzheng Yang*, Shi Gu<br>
                         Nov. 2022 <br>
-                        bioRxiv, <em>Algonauts 2021</em> <br>
-                        [<a href="https://www.biorxiv.org/content/10.1101/2022.11.06.515387v1.abstract">Paper</a>]
+                        Science Bulletin <br>
+                        [<a href="https://www.sciencedirect.com/science/article/pii/S2095927324001373">Paper</a>]
                         [<a href="https://github.com/huzeyann/htROI-neural-encoding">GitHub</a>]
                         <br>
                     </span></span></td>

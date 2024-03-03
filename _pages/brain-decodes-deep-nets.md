@@ -14,7 +14,7 @@ subtitle: null
   </div> -->
 
 <div style="margin-top:30px;">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/bLgcfVN3hU4" title="Brain Decodes Deep Nets, CVPR 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Qh49zQQCW1g" title="[CVPR 2024] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- <div style="margin-top:100px;">
