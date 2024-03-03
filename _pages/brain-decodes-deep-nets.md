@@ -12,9 +12,8 @@ subtitle: null
   <!-- <div>
     <img src="assets/custom_images/slides_teaser.png" width="100%" style="margin-left:0%; margin-right:0%">
   </div> -->
-
 <div style="margin-top:30px;">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Qh49zQQCW1g" title="[CVPR 2024] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/aKGO7Qd93_w?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1​" title="[CVPR 2024] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- <div style="margin-top:100px;">
@@ -88,6 +87,9 @@ Highlights: We found remarkable differences for same architecture models trained
 
 <br/><br/><br/><br/><br/>
 
+<div style="margin-top:30px;">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Qh49zQQCW1g" title="[CVPR 2024] Brain Decodes Deep Nets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Main Story 
 
