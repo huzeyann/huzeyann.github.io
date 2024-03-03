@@ -89,7 +89,7 @@ This page only list publications with extra materials such as code and video. Fo
                         May. 2023 <br>
                         arxiv, <em>rejected by NeurIPS</em> <br>
                         [<a href="https://arxiv.org/abs/2307.14021">Paper</a>]
-                        [<a href="TODO">Openreview</a>]
+                        [<a href="https://openreview.net/forum?id=DvRTU1whxF">Openreview</a>]
                         <br>
                     </span></span></td>
                 </tr>
