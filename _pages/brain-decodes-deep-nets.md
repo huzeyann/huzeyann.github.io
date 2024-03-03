@@ -95,6 +95,17 @@ Highlights: We found remarkable differences for same architecture models trained
 
 <br/><br/>
 
+### Neuroscience Background
+
+Visual brain is organized into regions, each region has specialized functions.
+For example, V1 does edge-detection and orientation filtering. FFA is face selective, if there’s a face, neurons in FFA fire.
+
+In the brain, Image processing and feature computation are organized in a hierarchical and largely feed-forward fashion. V1 is the initial visual region that physically connected to input from the eyes. Representation in the brain become increasingly abstract from V1 onwards to other regions.
+
+
+<div><img width="800" align="middle" src="assets/custom_images/neuroscience_background.png" border="0"></div>
+
+
 
 Visualization (*Brain-to-Network Alignment*) is a by-product of brain encoding model, each brain voxel selects:
 
@@ -127,8 +138,8 @@ Brian-to-Network alignment shows:
 
 <div><img width="800" align="middle" src="assets/custom_images/channel_big.png" border="0"></div>
 
-### Takeaway
+<!-- ### Takeaway
 Brain-to-Network alignment could be a way to find modular and generalizable model, we found CLIP has the best brain-net alignment: 
 1. Align with brain's hierarchical layout.
 2. Better brain-net alignment when scaled up size and data.
-3. Least catastrophic forgetting in finetuning.
+3. Least catastrophic forgetting in finetuning. -->
