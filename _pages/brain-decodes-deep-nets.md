@@ -37,10 +37,11 @@ Highlights: We found remarkable differences for same architecture models trained
 
   <div style="margin-top: 40px; font-size: large">
     <p style="display: inline-block;">
-      <a href="https://arxiv.org/abs/2312.01280" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper[CVPR'24]</a>
+      <a> CVPR'24 </a>
+      <a href="https://arxiv.org/abs/2312.01280" style="text-decoration: underline; color: lightblue; margin-right: 10px;">paper</a>
       <a href="https://github.com/huzeyann/BrainDecodesDeepNets" style="text-decoration: underline; color: lightblue; margin-right: 10px;">code</a>
       <a href="https://twitter.com/HuzeYann/status/1731921097203790141?s=20" style="text-decoration: underline; color: lightblue;">twitter</a>
-      <a href="https://youtu.be/bLgcfVN3hU4" style="text-decoration: underline; color: lightblue; margin-right: 10px;">talk online</a>
+      <!-- <a href="https://youtu.be/bLgcfVN3hU4" style="text-decoration: underline; color: lightblue; margin-right: 10px;">talk online</a> -->
       <!-- <a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EcuvlCSxjSBDk719Q_Dxc7ABNUebclx8wIUKAg2VGKwNXQ?e=a0oMma" style="text-decoration: underline; color: lightblue; margin-right: 10px;">slides</a> -->
       <!-- <a href="https://twitter.com/HuzeYann/TODO" style="text-decoration: underline; color: lightblue;">discussion</a> -->
     </p>
