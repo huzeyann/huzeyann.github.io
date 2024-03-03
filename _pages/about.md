@@ -28,7 +28,7 @@ before joining academia, I was at CNSS DevOps team. We had great fun in CTF and 
 
 <br/>
 
-I play rhythm game and instruments when research doesn't work. 
+I play rhythm game and instruments when research doesn't work <small>(they doesn't work most of the time)</small>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
