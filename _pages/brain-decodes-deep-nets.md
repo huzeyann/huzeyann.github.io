@@ -114,7 +114,8 @@ For example, V1 does edge-detection and orientation filtering. FFA is face selec
 In the brain, Image processing and feature computation are organized in a hierarchical and largely feed-forward fashion. V1 is the initial visual region that physically connected to input from the eyes. Representation in the brain become increasingly abstract from V1 onwards to other regions.
 
 
-<div><img width="800" align="middle" src="assets/custom_images/neuroscience_background.png" border="0"></div>
+<!-- <div><img width="800" align="middle" src="assets/custom_images/neuroscience_background.png" border="0"></div> -->
+<div><img width="800" align="middle" src="assets/gif/brain_background.gif" border="0"></div>
 
 
 
@@ -125,7 +126,7 @@ Visualization (*Brain-to-Network Alignment*) is a by-product of brain encoding m
 3. "which <strong>scale</strong> best predicts my brain response?"
 4. "which <strong>channel</strong> best predicts my brain response?"
 
-<div><img width="800" align="middle" src="assets/custom_images/bddn_fig1.png" border="0"></div>
+<div><img width="800" align="middle" src="assets/custom_images/bddn_fig1_v2.png" border="0"></div>
 > The intuitive understanding for our visualization is: each brain voxel asks the question, "which network *layer/space/scale/channel* best predicts my brain response?". 
 
 
@@ -138,10 +139,10 @@ Visualization (*Brain-to-Network Alignment*) is a by-product of brain encoding m
 <div><img width="800" align="middle" src="assets/custom_images/learning.gif" border="0"></div>
 
 ### Results
-Brian-to-Network alignment shows:
-1. Inner layer layouts of supervised and un-supervised models are different.
-2. Larger model have less efficient inner layer layout.
-3. Fine-tuning on small datasets change existing brain-to-network alignment.
+<!-- Brian-to-Network alignment shows:
+1. There's huge difference in intermediate layers of models trained with same architecture but different objective and data.
+2. Larger model have less brain-like layer layout.
+3. Fine-tuning on small datasets change existing brain-to-network alignment. -->
 
 
 
