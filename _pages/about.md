@@ -51,7 +51,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         Nov. 2023 <br>
-                        CVPR'24 <br>
+                        CVPR'24, <b><em>highlight</em></b> <br>
                         [<a href="https://arxiv.org/abs/2312.01280">Paper</a>]
                         [<a href="https://huzeyann.github.io/brain-decodes-deep-nets">Webpage</a>]
                         [<a href="https://github.com/huzeyann/BrainDecodesDeepNets">GitHub</a>]
