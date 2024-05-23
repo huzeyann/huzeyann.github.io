@@ -51,7 +51,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         Nov. 2023 <br>
-                        CVPR'24, <b><em><a  style="color:purple;">highlight</a></em></b> <br>
+                        CVPR'24, <b><em><a  style="color:DeepPink;">highlight</a></em></b> <br>
                         [<a href="https://arxiv.org/abs/2312.01280">Paper</a>]
                         [<a href="https://huzeyann.github.io/brain-decodes-deep-nets">Webpage</a>]
                         [<a href="https://github.com/huzeyann/BrainDecodesDeepNets">GitHub</a>]
@@ -69,7 +69,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         Aug. 2023 <br>
-                        arxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/archive.html">Algonauts 2023 challenge winner</a></em></b> <br>
+                        arxiv, <b><em><a style="color:DarkOrange;" href="http://algonauts.csail.mit.edu/archive.html">Algonauts 2023 challenge winner</a></em></b> <br>
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
                         [<a href="https://huzeyann.github.io/mem">Webpage</a>]
                         [<a href="https://github.com/huzeyann/MemoryEncodingModel">GitHub</a>]
@@ -119,7 +119,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, Shanghang Zhang, Yifan Wu, Yuanning Li*, Shi Gu*<br>
                         Aug. 2021 <br>
-                        bioRxiv, <b><em><a style="color:orange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
+                        bioRxiv, <b><em><a style="color:DarkOrange;" href="http://algonauts.csail.mit.edu/2021/index.html">Algonauts 2021 challenge winner</a></em></b> <br>
                         [<a href="https://www.biorxiv.org/content/10.1101/2021.08.24.457581.abstract">Paper</a>]
                         [<a href="https://github.com/huzeyann/huze_algonauts21">GitHub</a>]
                         [<a href="https://www.youtube.com/watch?v=xtSh_XotVlo">Talk CCN'21</a>]
