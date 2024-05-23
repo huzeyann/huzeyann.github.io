@@ -43,7 +43,7 @@ This page only list publications with extra materials such as code and video. Fo
 				<tbody>
                 <tr>
                     <td width="30%" align="center">
-                        <img width="225" align="middle" src="assets/custom_images/bddn.jpg" border="0"> &nbsp;
+                        <img width="225" align="middle" src="assets/gif/brain_background.gif" border="0"> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
@@ -51,7 +51,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         Nov. 2023 <br>
-                        CVPR'24, <b><em>highlight</em></b> <br>
+                        CVPR'24, <b><em><a  style="color:purple;">highlight</a></em></b> <br>
                         [<a href="https://arxiv.org/abs/2312.01280">Paper</a>]
                         [<a href="https://huzeyann.github.io/brain-decodes-deep-nets">Webpage</a>]
                         [<a href="https://github.com/huzeyann/BrainDecodesDeepNets">GitHub</a>]
