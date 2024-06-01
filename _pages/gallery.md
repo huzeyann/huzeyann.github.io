@@ -11,13 +11,13 @@ nav: true
 </div> -->
 <div style="margin-top:30px;">
 <video width="800" controls muted autoplay loop>
-  <source src="/assets/videos/sugerrush_x265.mp4" type="video/mp4">
+  <source src="/assets/videos/sugerrush_x264.mp4" type="video/mp4">
 </video>
 </div>
 
 <div style="margin-top:30px;">
 <video width="800" controls>
-  <source src="/assets/videos/akatsukiyoru_x265.mp4" type="video/mp4">
+  <source src="/assets/videos/akatsukiyoru_x264.mp4" type="video/mp4">
 </video>
 </div>
 
