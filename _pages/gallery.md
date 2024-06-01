@@ -12,7 +12,7 @@ nav: true
 
 <div style="margin-top:30px;">
 <video width="800" controls muted autoplay loop>
-  <source src="assets/videos/akatsukiyoru_x265.mp4" type="video/mp4">
+  <source src="/assets/videos/akatsukiyoru_x265.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -26,6 +26,6 @@ nav: true
 
 <div style="margin-top:30px;">
 <video width="800" controls muted autoplay loop>
-  <source src="assets/videos/sugerrush_x265.mp4" type="video/mp4">
+  <source src="/assets/videos/sugerrush_x265.mp4" type="video/mp4">
 </video>
 </div>
