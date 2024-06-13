@@ -1,10 +1,22 @@
 ---
 layout: page
 permalink: /gallery/
-title: gallery
+title: instant_rockstar_button🔴
 description: 
 nav: true
 ---
+
+<div class="square">
+    <div>
+        <img src="/assets/img/instant_rockstar_button.jpg" width=300
+            alt="">
+    </div>
+    <p>
+        I play drum since 2023. 
+        <br/>
+        Rhythm games since 2012.
+    </p>
+</div>
 
 <!-- <div>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">天楽 <a href="https://t.co/HmCfZ90G0X">pic.twitter.com/HmCfZ90G0X</a></p>&mdash; huze (@HuzeYann) <a href="https://twitter.com/HuzeYann/status/1731538053867442298?ref_src=twsrc%5Etfw">December 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
