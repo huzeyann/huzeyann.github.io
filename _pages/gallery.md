@@ -8,13 +8,18 @@ nav: true
 
 <div class="square">
     <div>
-        <img src="/assets/img/instant_rockstar_button.jpg" width=300
+        <img src="/assets/img/instant_rockstar_button.jpg" width=500
             alt="">
     </div>
     <p>
         I play drum since 2023. 
-        <br/>
-        Rhythm games since 2012.
+    </p>
+    <div>
+        <img src="/assets/custom_images/maimai_utage.jpg" width=700
+            alt="">
+    </div>
+    <p>
+        Rhythm gamer since 2012.
     </p>
 </div>
 
