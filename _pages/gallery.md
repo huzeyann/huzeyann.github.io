@@ -12,7 +12,7 @@ nav: true
             alt="">
     </div>
     <p>
-        I play drum since 2023. 
+        I play drum since 2023.
     </p>
     <div>
         <img src="/assets/custom_images/maimai_utage.jpg" width=700
