@@ -43,6 +43,21 @@ This page only list publications with extra materials such as code and video. Fo
 				<tbody>
                 <tr>
                     <td width="30%" align="center">
+                        <img width="225" align="middle" src="/assets/img/alignedcut.jpg" border="0"> &nbsp;
+                    </td>
+                    <td>
+                        <span style="font-size: 12pt;">
+                        <b>AlignedCut: Visual Concepts Discovery on Brain-Guided Universal Feature Space</b> <br>
+                        <span style="font-size: 10pt;">
+                        Huzheng Yang, James Gee*, Jianbo Shi*<br>
+                        May. 2024 <br>
+                        arxiv
+                        [<a href="https://arxiv.org/abs/2406.18344">Paper</a>]
+                        <br>
+                    </span></span></td>
+                </tr>
+                <tr>
+                    <td width="30%" align="center">
                         <img width="225" align="middle" src="assets/gif/brain_background.gif" border="0"> &nbsp;
                     </td>
                     <td>
