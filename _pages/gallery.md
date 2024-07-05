@@ -29,7 +29,7 @@ nav: true
 
 <div style="margin-top:30px;">
 <video width="800" controls muted autoplay loop>
-  <source src="/assets/videos/video_2024-07-05_00-57-13.mp4.mp4" type="video/mp4">
+  <source src="/assets/videos/video_2024-07-05_00-57-13.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -43,6 +43,10 @@ nav: true
 <video width="800" controls>
   <source src="/assets/videos/akatsukiyoru_x264.mp4" type="video/mp4">
 </video>
+</div>
+
+<div>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">もっと練習して、いつかバンドでやりたい<br><br>地球最後の告白を - kemu / MORE MORE JUMP！ × 巡音ルカ <a href="https://t.co/hl7NIbjYB9">pic.twitter.com/hl7NIbjYB9</a></p>&mdash; huze (@HuzeYann) <a href="https://twitter.com/HuzeYann/status/1703197259842695313?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 
 <div>
