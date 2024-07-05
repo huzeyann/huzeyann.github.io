@@ -51,7 +51,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         May. 2024 <br>
-                        arxiv
+                        arxiv <br>
                         [<a href="https://arxiv.org/abs/2406.18344">Paper</a>]
                         <br>
                     </span></span></td>
