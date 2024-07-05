@@ -55,6 +55,12 @@ nav: true
 
 <div style="margin-top:30px;">
 <video width="800" controls>
+  <source src="/assets/videos/IMG_6225.MP4" type="video/mp4">
+</video>
+</div>
+
+<div style="margin-top:30px;">
+<video width="800" controls>
   <source src="/assets/videos/IMG_6223.MP4" type="video/mp4">
 </video>
 </div>
