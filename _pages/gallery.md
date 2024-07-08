@@ -33,6 +33,10 @@ nav: true
 </video>
 </div>
 
+<iframe width="545" height="970" src="https://www.youtube.com/embed/nzxqXdT8WlM" title="【R / Roselia】 二人バンドでやってみた" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="545" height="970" src="https://www.youtube.com/embed/-khdleiXk-o" title="【Fire Bird / Roselia】 二人バンドでやってみた" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div style="margin-top:30px;">
 <video width="800" controls>
   <source src="/assets/videos/mygo_small.mp4" type="video/mp4">
