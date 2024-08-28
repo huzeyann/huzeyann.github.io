@@ -53,6 +53,7 @@ This page only list publications with extra materials such as code and video. Fo
                         May. 2024 <br>
                         arxiv <br>
                         [<a href="https://arxiv.org/abs/2406.18344">Paper</a>]
+                        [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EdPlbbmV3Q9DmXKRIElcw5ABhOnNQctJSky6jcN7Au0elg?e=snyVLo">Slides</a>]
                         <br>
                     </span></span></td>
                 </tr>
@@ -66,10 +67,11 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         Nov. 2023 <br>
-                        CVPR'24, <b><em><a  style="color:DeepPink;">highlight</a></em></b> <br>
+                        CVPR'24, <b><em><a>highlight</a></em></b> <br>
                         [<a href="https://arxiv.org/abs/2312.01280">Paper</a>]
                         [<a href="https://huzeyann.github.io/brain-decodes-deep-nets">Webpage</a>]
                         [<a href="https://github.com/huzeyann/BrainDecodesDeepNets">GitHub</a>]
+                        [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EVDLndCXy21LpKEelu_MVkMBK9dbFIhlI6VEQzOl4j6eLA?e=eED63x">Slides</a>]
                         [<a href="https://youtu.be/Qh49zQQCW1g">Talk online</a>]
                         <br>
                     </span></span></td>
@@ -88,6 +90,7 @@ This page only list publications with extra materials such as code and video. Fo
                         [<a href="https://arxiv.org/abs/2308.01175">Paper</a>]
                         [<a href="https://huzeyann.github.io/mem">Webpage</a>]
                         [<a href="https://github.com/huzeyann/MemoryEncodingModel">GitHub</a>]
+                        [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EewQz_XbSpJCtm63dl7WSSkBOeRDEfzGY8rcrwsmm5KvgA?e=Tw9hAv">Slides</a>]
                         [<a href="https://www.youtube.com/live/9Xh55mcWJeE?si=aCdlPM1MnBaainIF&t=3343">Talk CCN'23</a>]
                         <br>
                     </span></span></td>
