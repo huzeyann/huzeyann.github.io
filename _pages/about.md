@@ -28,9 +28,7 @@ before joining academia, I was at CNSS DevOps team. We had great fun in CTF and 
 
 <br/>
 
-I play rhythm game and instruments when research doesn't work <small>(they doesn't work most of the time)</small>
-
-Things I like: Blues Driver & Telecaster
+I play rhythm game and instruments when research doesn't work <small>(they doesn't work most of the time)</small>. My favorite: Blues Driver & Telecaster
 
 <br/><br/><br/><br/><br/><br/><br/> 
 
@@ -53,8 +51,8 @@ I like Softwares, they are alive, you can play with them.
                         <span style="font-size: 12pt;">
                         <b>ncut-pytorch</b>: Nyström Normalized Cuts PyTorch <br>
                         <span style="font-size: 10pt;">
+                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>]
                         [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>]
-                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>] || 
                         [<a href="https://ncut-pytorch.readthedocs.io/">Website</a>]
                         [Paper (coming)]
                         <br>
