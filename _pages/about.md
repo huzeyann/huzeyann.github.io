@@ -30,12 +30,15 @@ before joining academia, I was at CNSS DevOps team. We had great fun in CTF and 
 
 I play rhythm game and instruments when research doesn't work <small>(they doesn't work most of the time)</small>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/> 
+Things I like: Blues Driver & Telecaster
+
+<br/><br/><br/><br/><br/><br/><br/> 
 
 <hr>
 
 <h2>Softwares </h2>
 
+I like Softwares, they are alive, you can play with them.
 
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
@@ -43,12 +46,12 @@ I play rhythm game and instruments when research doesn't work <small>(they doesn
                 <tr>
                     <td width="30%" align="center">
                     <a href="https://ncut-pytorch.readthedocs.io/">
-                        <img width="225" align="middle" src="/assets/img/ncut.svg" border="0"> &nbsp;
-                    </a>
+                        <img width="225" align="middle" src="/assets/img/ncut.svg" border="0">
+                    </a> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
-                        <b><a href="https://ncut-pytorch.readthedocs.io/">ncut-pytorch: Nyström Normalized Cuts PyTorch </a></b> <br>
+                        <b>ncut-pytorch</b>: Nyström Normalized Cuts PyTorch <br>
                         <span style="font-size: 10pt;">
                         [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>]
                         [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>] || 
@@ -62,7 +65,7 @@ I play rhythm game and instruments when research doesn't work <small>(they doesn
             
 </font>
 
-<br/><br/>
+<br/>
 <hr>
 
 <h2>Publications </h2>
