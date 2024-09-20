@@ -51,7 +51,9 @@ I play rhythm game and instruments when research doesn't work <small>(they doesn
                         <b><a href="https://ncut-pytorch.readthedocs.io/">ncut-pytorch: Nyström Normalized Cuts PyTorch </a></b> <br>
                         <span style="font-size: 10pt;">
                         [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>]
-                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>]
+                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>] || 
+                        [<a href="https://ncut-pytorch.readthedocs.io/">Website</a>]
+                        [Paper (coming)]
                         <br>
                     </span></span></td>
                 </tr>
