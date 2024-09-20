@@ -34,6 +34,35 @@ I play rhythm game and instruments when research doesn't work <small>(they doesn
 
 <hr>
 
+<h2>Softwares </h2>
+
+
+<font face="helvetica, ariel, 'sans serif'">
+            <table cellspacing="15">
+				<tbody>
+                <tr>
+                    <td width="30%" align="center">
+                    <a href="https://ncut-pytorch.readthedocs.io/">
+                        <img width="225" align="middle" src="/assets/img/ncut.svg" border="0"> &nbsp;
+                    </a>
+                    </td>
+                    <td>
+                        <span style="font-size: 12pt;">
+                        <b><a href="https://ncut-pytorch.readthedocs.io/">ncut-pytorch: Nyström Normalized Cuts PyTorch </a></b> <br>
+                        <span style="font-size: 10pt;">
+                        [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>]
+                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>]
+                        <br>
+                    </span></span></td>
+                </tr>
+                </tbody>
+            </table>
+            
+</font>
+
+<br/><br/>
+<hr>
+
 <h2>Publications </h2>
 
 This page only list publications with extra materials such as code and video. For a full list of publications please use <a href="https://scholar.google.com/citations?user=8yVLKyYAAAAJ">Google Scholar</a>
