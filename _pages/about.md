@@ -22,7 +22,11 @@ social: false  # includes social icons at the bottom of the page
 
 PhD student at University of Pennsylvania, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. 
 
-I have been nerding out on <b>Brain Encoding Models</b> since we met. I work on computer vision and computational neuroscience.
+<!-- I have been nerding out on <b>Brain Encoding Models</b> since we met. I work on computer vision and computational neuroscience. -->
+
+1. Computer Vision: segmentation, correspondence, un-supervised methods.
+
+2. Explainbility: feature visualization, mechanistic interpretability.
 
 before joining academia, I was at CNSS DevOps team. We had great fun in CTF and Hackathon.
 
