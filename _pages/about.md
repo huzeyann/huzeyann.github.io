@@ -28,11 +28,16 @@ PhD student at University of Pennsylvania, co-advised by [James C. Gee](https://
 
 2. Explainbility: feature visualization, mechanistic interpretability.
 
-before joining academia, I was at CNSS DevOps team. We had great fun in CTF and Hackathon.
+Before joining academia, I was at CNSS DevOps team. We had great fun in Hackathons.
+
+1. Software Development: Web App, Embedded OS, Unity
+
+2. Operations: Deployment, Containers, Networking systems
 
 <br/>
+<br/>
 
-I play rhythm game and instruments when research doesn't work <small>(they doesn't work most of the time)</small>. My favorite: Blues Driver & Telecaster
+I play rhythm game and instruments when things doesn't work <small>(they doesn't work most of the time)</small>. My favorite: Blues Driver & Telecaster
 
 <br/><br/><br/><br/><br/><br/><br/> 
 
@@ -40,7 +45,7 @@ I play rhythm game and instruments when research doesn't work <small>(they doesn
 
 <h2>Softwares </h2>
 
-I like Softwares, they are alive, you can play with them.
+I like Softwares, they are the revolution, paper is too old.
 
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
@@ -76,7 +81,7 @@ I like Softwares, they are alive, you can play with them.
 
 <h2>Publications </h2>
 
-This page only list publications with extra materials such as code and video. For a full list of publications please use <a href="https://scholar.google.com/citations?user=8yVLKyYAAAAJ">Google Scholar</a>
+They are dead piece of paper, but they last forever.
 
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
