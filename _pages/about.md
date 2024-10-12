@@ -44,30 +44,28 @@ I like Softwares, they are alive, you can play with them.
                 <tr>
                     <td width="30%" align="center">
                     <a href="https://ncut-pytorch.readthedocs.io/">
-                        <img width="225" align="middle" src="/assets/img/ncut.svg" border="0">
+                        <video controls="" muted="" autoplay="" loop="">
+                        <source src="/assets/videos/ncut_video_sam_264_small.mp4" type="video/mp4">
+                        </video>
                     </a> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
                         <b>ncut-pytorch</b>: Nyström Normalized Cuts PyTorch <br>
                         <span style="font-size: 10pt;">
-                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">GUI Software</a>]
+                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">Huggingface Demo</a>]
                         [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>]
                         [<a href="https://ncut-pytorch.readthedocs.io/">Website</a>]
+                        [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/ESmESKMkHONGm-UMYz1X2A4BmjlT4Qmlv63QaJq8Z1ButQ?e=gvr5e1">Slides</a>]
                         [Paper (coming)]
                         <br>
                     </span></span></td>
-                <div style="text-align: center;">
-                <video width="90%" controls="" muted="" autoplay="" loop="">
-                <source src="/assets/videos/ncut_video_sam_264_small.mp4" type="video/mp4">
-                </video>
-                </div>
-
                 </tr>
                 </tbody>
             </table>
             
 </font>
+
 
 <br/>
 <hr>
@@ -89,7 +87,7 @@ This page only list publications with extra materials such as code and video. Fo
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         May. 2024 <br>
-                        arxiv <br>
+                        arxiv, <em>rejected by NeurIPS</em> <br>
                         [<a href="https://arxiv.org/abs/2406.18344">Paper</a>]
                         [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EdPlbbmV3Q9DmXKRIElcw5ABhOnNQctJSky6jcN7Au0elg?e=snyVLo">Slides</a>]
                         <br>
