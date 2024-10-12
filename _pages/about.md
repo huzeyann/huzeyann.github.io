@@ -57,6 +57,12 @@ I like Softwares, they are alive, you can play with them.
                         [Paper (coming)]
                         <br>
                     </span></span></td>
+                <div style="text-align: center;">
+                <video width="90%" controls="" muted="" autoplay="" loop="">
+                <source src="/assets/videos/ncut_video_sam_264_small.mp4" type="video/mp4">
+                </video>
+                </div>
+
                 </tr>
                 </tbody>
             </table>
