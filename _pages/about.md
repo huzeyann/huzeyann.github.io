@@ -42,21 +42,21 @@ I like Softwares, they are alive, you can play with them.
             <table cellspacing="15">
 				<tbody>
                 <tr>
-                    <td width="30%" align="center">
+                    <td width="40%" align="center">
                     <a href="https://ncut-pytorch.readthedocs.io/">
-                        <video controls="" muted="" autoplay="" loop="">
+                        <video width="90%" controls="" muted="" autoplay="" loop="">
                         <source src="/assets/videos/ncut_video_sam_264_small.mp4" type="video/mp4">
                         </video>
                     </a> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
-                        <b>ncut-pytorch</b>: Nyström Normalized Cuts PyTorch <br>
+                        <b>ncut-pytorch</b>: Nyström Normalized Cuts PyTorch <br><br>
                         <span style="font-size: 10pt;">
-                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">Huggingface Demo</a>]
-                        [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>]
-                        [<a href="https://ncut-pytorch.readthedocs.io/">Website</a>]
-                        [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/ESmESKMkHONGm-UMYz1X2A4BmjlT4Qmlv63QaJq8Z1ButQ?e=gvr5e1">Slides</a>]
+                        [<a href="https://huggingface.co/spaces/huzey/ncut-pytorch">Huggingface Demo</a>] <br>
+                        [<a href="https://ncut-pytorch.readthedocs.io/">Python Package</a>] <br>
+                        [<a href="https://ncut-pytorch.readthedocs.io/">Website</a>] <br>
+                        [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/ESmESKMkHONGm-UMYz1X2A4BmjlT4Qmlv63QaJq8Z1ButQ?e=gvr5e1">Slides</a>] <br>
                         [Paper (coming)]
                         <br>
                     </span></span></td>
