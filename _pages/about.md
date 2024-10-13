@@ -81,8 +81,6 @@ I like Softwares, they are alive, PDF is dead.
 
 <h2>Publications </h2>
 
-They are dead piece of paper, but they last forever.
-
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
 				<tbody>
