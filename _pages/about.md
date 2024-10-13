@@ -45,7 +45,7 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
 
 <h2>Softwares </h2>
 
-I like Softwares, they are the revolution, paper is too old.
+I like Softwares, they are alive, PDF is dead.
 
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
