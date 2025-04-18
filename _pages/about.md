@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📍Penn </p>
-    <p><a href="mailto:%68%75%7A%65.%79%61%6E%6E@%67%6D%61%69%6C.%63%6F%6D">Email</a></p>
-    <p><a href="https://github.com/huzeyann" target="_blank" title="GitHub">Github</a></p>
-    <p><a href="https://twitter.com/HuzeYann" target="_blank" title="Twitter">Twitter</a></p>
+    <p>📍Penn </p></br>
+    <p><a href="mailto:%68%75%7A%65.%79%61%6E%6E@%67%6D%61%69%6C.%63%6F%6D">Email</a></p></br>
+    <p><a href="https://github.com/huzeyann" target="_blank" title="GitHub">Github</a></p></br>
+    <p><a href="https://twitter.com/HuzeYann" target="_blank" title="Twitter">Twitter</a></p></br>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
