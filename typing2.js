@@ -1,0 +1,1 @@
+window.onload=function(){new Typed("#typing-text2",{strings:["What can brain and deep nets, tell about each other?"],typeSpeed:50,backDelay:2e3,fadeOut:!0,backSpeed:40,smartBackspace:!0,loop:!0,showCursor:!1})};
