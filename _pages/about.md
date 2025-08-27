@@ -44,8 +44,6 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
 
 <h2>Softwares </h2>
 
-I like Softwares, they are alive, PDF is dead.
-
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
 				<tbody>
@@ -83,6 +81,24 @@ I like Softwares, they are alive, PDF is dead.
 <font face="helvetica, ariel, 'sans serif'">
             <table cellspacing="15">
 				<tbody>
+                <tr>
+                    <td width="30%" align="center">
+                        <img width="225" align="middle" src="assets/gif/m1c.gif" border="0"> &nbsp;
+                    </td>
+                    <td>
+                        <span style="font-size: 12pt;">
+                        <b>"I Know It When I See It": Mood Spaces for Connecting and Expressing Visual Concepts</b> <br>
+                        <span style="font-size: 10pt;">
+                        Huzheng Yang, Katherine Xu, Michael D. Grossberg, Yutong Bai, Jianbo Shi<br>
+                        Mar. 2025 <br>
+                        arxiv <br>
+                        [<a href="https://arxiv.org/abs/2504.15145">Paper</a>]
+                        [<a href="https://huzeyann.github.io/mspace/">Webpage</a>]
+                        [<a href="https://github.com/huzeyann/mood">GitHub</a>]
+                        [<a href="https://huggingface.co/spaces/huzey/MoodSpace">Demo</a>]
+                        <br>
+                    </span></span></td>
+                </tr>
                 <tr>
                     <td width="30%" align="center">
                         <img width="225" align="middle" src="/assets/img/alignedcut.jpg" border="0"> &nbsp;
