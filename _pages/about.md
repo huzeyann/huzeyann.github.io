@@ -23,12 +23,12 @@ PhD student at University of Pennsylvania, advised by [Jianbo Shi](https://www.c
 
 My research:
 
-## 1) Understand AI models
+#### 1) Understand AI models
 - **Mechanistic analysis** of VLM/LLM representations (e.g., probing information flow across layers/attention). 
 - **Brain-guided understanding** via neural prediction/encoding (e.g., Algonauts; model–brain alignment). 
 
 
-## 2) Improve AI models
+#### 2) Improve AI models
 - **Generative modeling**: improving CLIP-conditioned diffusion via better feature manifolds for controllable sampling. 
 - **Inference Efficiency**: attention-sink analysis → structured Nyström-style approximations for faster attention inference. 
 
