@@ -3,7 +3,7 @@ layout: page
 permalink: /gallery/
 title: instant_rockstar_button🔴
 description: 
-nav: true
+nav: false
 ---
 
 <div class="square">

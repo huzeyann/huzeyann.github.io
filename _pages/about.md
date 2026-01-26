@@ -19,15 +19,31 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-PhD student at University of Pennsylvania, co-advised by [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"} and [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"}. 
+PhD student at University of Pennsylvania, advised by [Jianbo Shi](https://www.cis.upenn.edu/~jshi/){:target="\_blank"} and [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656){:target="\_blank"}. 
+
+My research:
+
+## 1) Understand AI models
+- **Mechanistic analysis** of VLM/LLM representations (e.g., probing information flow across layers/attention). 
+- **Brain-guided understanding** via neural prediction/encoding (e.g., Algonauts; model–brain alignment). 
+
+
+## 2) Improve AI models
+- **Generative modeling**: improving CLIP-conditioned diffusion via better feature manifolds for controllable sampling. 
+- **Inference Efficiency**: attention-sink analysis → structured Nyström-style approximations for faster attention inference. 
+
+I also build open-source tools, including **ncut-pytorch** for fast spectral embedding with deployable demos. 
+
+
+**Contact:** huze.yann@gmail.com 
 
 <!-- I have been nerding out on <b>Brain Encoding Models</b> since we met. I work on computer vision and computational neuroscience. -->
 
-1. Computer Vision: segmentation, correspondence, un-supervised methods
+<!-- 1. Computer Vision: segmentation, correspondence, un-supervised methods
 
-2. Explainbility: feature visualization, mechanistic interpretability
+2. Explainbility: feature visualization, mechanistic interpretability -->
 
-Before joining academia, I was at CNSS DevOps team. We had great fun in Hackathons
+<!-- Before joining academia, I was at CNSS DevOps team. We had great fun in Hackathons
 
 1. Software Development: Web App, Embedded OS, Unity
 
@@ -36,7 +52,7 @@ Before joining academia, I was at CNSS DevOps team. We had great fun in Hackatho
 <br/>
 <br/>
 
-I play rhythm game and instruments when things doesn't work <small>(they doesn't work most of the time)</small>. My favorite: Blues Driver & Telecaster
+I play rhythm game and instruments when things doesn't work <small>(they doesn't work most of the time)</small>. My favorite: Blues Driver & Telecaster -->
 
 <br/><br/><br/><br/><br/><br/><br/> 
 
@@ -83,19 +99,18 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
 				<tbody>
                 <tr>
                     <td width="30%" align="center">
-                        <img width="225" align="middle" src="assets/gif/m1c.gif" border="0"> &nbsp;
+                        <img width="225" align="middle" src="assets/img/vibe_blending.png" border="0"> &nbsp;
                     </td>
                     <td>
                         <span style="font-size: 12pt;">
-                        <b>"I Know It When I See It": Mood Spaces for Connecting and Expressing Visual Concepts</b> <br>
+                        <b>Vibe Spaces for Creatively Connecting and Expressing Visual Concepts</b> <br>
                         <span style="font-size: 10pt;">
-                        Huzheng Yang, Katherine Xu, Michael D. Grossberg, Yutong Bai, Jianbo Shi<br>
-                        Mar. 2025 <br>
-                        arxiv <br>
-                        [<a href="https://arxiv.org/abs/2504.15145">Paper</a>]
-                        [<a href="https://huzeyann.github.io/mspace/">Webpage</a>]
-                        [<a href="https://github.com/huzeyann/mood">GitHub</a>]
-                        [<a href="https://huggingface.co/spaces/huzey/MoodSpace">Demo</a>]
+                        Huzheng Yang, Katherine Xu, Andrew Lu, Michael D. Grossberg, Yutong Bai, Jianbo Shi<br>
+                        preprint <br>
+                        [<a href="https://arxiv.org/pdf/2512.14884">Paper</a>]
+                        [<a href="https://huzeyann.github.io/VibeSpace-webpage/">Webpage</a>]
+                        [<a href="https://github.com/huzeyann/VibeSpace">GitHub</a>]
+                        [<a href="https://huggingface.co/spaces/huzey/VibeSpace">Demo</a>]
                         <br>
                     </span></span></td>
                 </tr>
