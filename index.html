@@ -8,6 +8,163 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    
+    <!-- Dark mode styles for index.html only -->
+    <style>
+        :root {
+            --dm-bg-color: #ffffff;
+            --dm-text-color: #2c3e50;
+            --dm-text-secondary: #5a6c7d;
+            --dm-text-muted: #7f8c8d;
+            --dm-accent-color: #3498db;
+            --dm-accent-hover: #2980b9;
+            --dm-border-color: #e8e8e8;
+            --dm-border-light: #f0f0f0;
+            --dm-footer-text: #95a5a6;
+            --dm-highlight-color: #d8a31c;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --dm-bg-color: #0d1117;
+                --dm-text-color: #e6edf3;
+                --dm-text-secondary: #8b949e;
+                --dm-text-muted: #6e7681;
+                --dm-accent-color: #58a6ff;
+                --dm-accent-hover: #79c0ff;
+                --dm-border-color: #30363d;
+                --dm-border-light: #21262d;
+                --dm-footer-text: #6e7681;
+                --dm-highlight-color: #f0b429;
+            }
+        }
+
+        body {
+            background-color: var(--dm-bg-color) !important;
+            color: var(--dm-text-color) !important;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        header {
+            border-bottom-color: var(--dm-border-color) !important;
+        }
+
+        header h1 {
+            color: var(--dm-text-color) !important;
+        }
+
+        .subtitle {
+            color: var(--dm-text-secondary) !important;
+        }
+
+        .social-links a {
+            color: var(--dm-text-secondary) !important;
+        }
+
+        .social-links a:hover {
+            color: var(--dm-accent-color) !important;
+        }
+
+        .profile-pic {
+            border-color: var(--dm-border-light) !important;
+        }
+
+        .section-header h2 {
+            color: var(--dm-text-color) !important;
+            border-bottom-color: var(--dm-accent-color) !important;
+        }
+
+        .bio p,
+        .bio li {
+            color: var(--dm-text-color) !important;
+        }
+
+        a {
+            color: var(--dm-accent-color) !important;
+        }
+
+        a:hover {
+            color: var(--dm-accent-hover) !important;
+        }
+
+        .publication {
+            border-bottom-color: var(--dm-border-light) !important;
+        }
+
+        .pub-description {
+            color: var(--dm-text-secondary) !important;
+        }
+
+        .pub-image img,
+        .pub-image video {
+            border-color: var(--dm-border-color) !important;
+        }
+
+        .pub-content h3 {
+            color: var(--dm-text-color) !important;
+        }
+
+        .authors {
+            color: var(--dm-text-secondary) !important;
+        }
+
+        .venue {
+            color: var(--dm-text-muted) !important;
+        }
+
+        .venue strong {
+            color: var(--dm-accent-color) !important;
+        }
+
+        .pub-links a {
+            border-color: var(--dm-accent-color) !important;
+            color: var(--dm-accent-color) !important;
+        }
+
+        .pub-links a:hover {
+            background-color: var(--dm-accent-color) !important;
+            color: var(--dm-bg-color) !important;
+        }
+
+        .authors strong {
+            color: var(--dm-accent-color) !important;
+        }
+
+        .show-all-btn {
+            border-color: var(--dm-accent-color) !important;
+            color: var(--dm-accent-color) !important;
+        }
+
+        .show-all-btn:hover {
+            background-color: var(--dm-accent-color) !important;
+            color: var(--dm-bg-color) !important;
+        }
+
+        .highlight {
+            color: var(--dm-highlight-color) !important;
+        }
+
+        .awards li,
+        .awards strong {
+            color: var(--dm-text-color) !important;
+        }
+
+        footer {
+            border-top-color: var(--dm-border-color) !important;
+        }
+
+        footer p {
+            color: var(--dm-footer-text) !important;
+        }
+
+        footer a {
+            color: var(--dm-text-muted) !important;
+        }
+
+        footer a:hover {
+            color: var(--dm-accent-color) !important;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -53,7 +210,7 @@
                     My research focuses on understanding and improving multimodal foundation models:
                 </p>
                 <ul>
-                    <li>Understand: Mechanistic analysis of VLM/LLM representations, brain-guided understanding of model representations. (<a href="https://huzeyann.github.io/BrainDecodesDeepNets/" target="_blank">CVPR 2024</a>, <a href="https://huzeyann.github.io/mem/" target="_blank">Algonauts 2023</a>, <a href="https://www.sciencedirect.com/science/article/pii/S2095927324001373" target="_blank">Algonauts 2021</a>)</li>
+                    <li>Understand: Mechanistic analysis of VLM/LLM representations, brain-guided understanding of model representations. (<a href="https://huzeyann.github.io/BrainDecodesDeepNets/" target="_blank">CVPR 2024</a>, <a href="https://huzeyann.github.io/mem.html" target="_blank">Algonauts 2023</a>, <a href="https://www.sciencedirect.com/science/article/pii/S2095927324001373" target="_blank">Algonauts 2021</a>)</li>
                     <li>Improve: Generative model's creativity and reasoning capabilities (<a href="https://huzeyann.github.io/VibeSpace-webpage/" target="_blank">CVPR 2026</a>), transformer attention layers' inference efficiency (<a href="https://arxiv.org/abs/2507.16018" target="_blank">arXiv</a>).</li>
                 </ul>
                 <p>
@@ -167,7 +324,7 @@
                         <p class="venue">arXiv <span class="highlight">✨Algonauts 2023, competition winner</span></p>
                         <div class="pub-links">
                             <a href="https://arxiv.org/abs/2308.01175" target="_blank">Paper</a>
-                            <a href="https://huzeyann.github.io/mem/">Website</a>
+                            <a href="https://huzeyann.github.io/mem.html">Website</a>
                             <a href="https://github.com/huzeyann/MemoryEncodingModel" target="_blank">GitHub</a>
                             <a href="http://algonautsproject.com/2023/challenge.html" target="_blank">Leaderboard</a>
                         </div>
@@ -289,6 +446,15 @@
                 btn.textContent = 'Show All';
                 title.textContent = 'Selected Publications';
             }
+        }
+
+        // 监听系统主题变化
+        if (window.matchMedia) {
+            const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+            
+            darkModeMediaQuery.addEventListener('change', (e) => {
+                document.body.style.transition = 'background-color 0.5s ease, color 0.5s ease';
+            });
         }
     </script>
 </body>
