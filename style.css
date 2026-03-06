@@ -1,0 +1,393 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    font-family: monospace, monospace; /* 1 */
+    line-height: 1.8;
+    color: #2c3e50;
+    background-color: #ffffff;
+    font-size: 17px;
+}
+
+.container {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 50px 30px;
+}
+
+/* Header styles */
+
+header {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.header-text {
+    flex: 1;
+}
+
+header h1 {
+    font-size: 2em;
+    font-weight: 400;
+    margin-bottom: 10px;
+    color: #2c3e50;
+    letter-spacing: -0.02em;
+}
+
+.subtitle {
+    font-size: 1em;
+    color: #5a6c7d;
+    margin-bottom: 4px;
+    font-weight: 400;
+}
+
+.social-links {
+    margin-bottom: 0;
+}
+
+
+.social-links a {
+    color: #5a6c7d;
+    text-decoration: none;
+    margin-right: 0;
+    font-size: 0.9em;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.social-links a:hover {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.social-links a i {
+    margin-right: 6px;
+    font-size: 0.95em;
+}
+
+.profile-section {
+    flex-shrink: 0;
+}
+
+.profile-pic {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #f0f0f0;
+}
+
+/* Main content styles */
+main {
+    margin-bottom: 50px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+
+.section-header h2 {
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-bottom: 0;
+    color: #2c3e50;
+    letter-spacing: -0.01em;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #3498db;
+    display: inline-block;
+}
+
+/* Bio section */
+.bio p {
+    margin-bottom: 10px;
+    color: #2c3e50;
+    font-size: 1em;
+    line-height: 1.2em;
+}
+
+.bio ul {
+    margin: 0 0 0 28px;
+}
+
+.bio li {
+    margin-bottom: 0.5em;
+    color: #2c3e50;
+    line-height: 1.3em;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+/* Publications */
+.publication {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.pub-description {
+    font-size: 0.92em;
+    color: #5a6c7d;
+    margin-bottom: 5px;
+    line-height: 1.1em;
+}
+
+.publication:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.pub-image {
+    flex-shrink: 0;
+    width: 200px;
+}
+
+.pub-image img,
+.pub-image video {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    display: block;
+    border: 1px solid #e8e8e8;
+}
+
+.pub-content {
+    flex: 1;
+}
+
+.pub-content h3 {
+    font-size: 1.2em;
+    font-weight: 500;
+    margin-bottom: 8px;
+    color: #2c3e50;
+    line-height: 1em;
+}
+
+.authors {
+    font-size: 0.92em;
+    color: #5a6c7d;
+    margin-bottom: 5px;
+    line-height: 1.1em;
+}
+
+.venue {
+    font-size: 0.92em;
+    color: #7f8c8d;
+    margin-bottom: 12px;
+}
+
+.venue strong {
+    color: #3498db;
+    font-weight: 600;
+}
+
+
+.pub-links a {
+    display: inline-block;
+    margin-right: 1px;
+    margin-bottom: 0;
+    font-size: 0.9em;
+    font-weight: 500;
+    padding: -0px 6px;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+    color: #3498db;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.pub-links a:hover {
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+}
+
+.authors strong {
+    color: #3498db;
+    font-weight: normal;
+}
+
+/* Additional publications */
+.additional-publications {
+    display: block;
+}
+
+.additional-publications.hidden {
+    display: none;
+}
+
+.show-all-btn {
+    background: none;
+    border: 1px solid #3498db;
+    color: #3498db;
+    padding: 8px 20px;
+    font-size: 0.95em;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    font-family: monospace, monospace; /* 1 */
+    margin-bottom: 8px;
+}
+
+.show-all-btn:hover {
+    background-color: #3498db;
+    color: white;
+}
+
+.highlight {
+    color: #d8a31c;
+    text-align: right;
+}
+
+/* Software */
+.software {
+    margin-bottom: 10px;
+}
+
+.software h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #2c3e50;
+}
+
+.software p {
+    font-size: 0.98em;
+    color: #5a6c7d;
+    margin-bottom: 12px;
+}
+
+/* Awards */
+.awards {
+    list-style: none;
+}
+
+.awards li {
+    margin-bottom: 0px;
+    color: #2c3e50;
+}
+
+.awards strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* Footer */
+footer {
+    margin-top: 60px;
+    padding-top: 30px;
+    border-top: 1px solid #e8e8e8;
+}
+
+footer p {
+    font-size: 0.88em;
+    color: #95a5a6;
+}
+
+footer a {
+    color: #7f8c8d;
+}
+
+footer a:hover {
+    color: #3498db;
+}
+
+/* Responsive design */
+@media (max-width: 720px) {
+    .container {
+        padding: 35px 20px;
+    }
+    
+    .header-content {
+        flex-direction: column-reverse;
+        gap: 25px;
+        align-items: center;
+        text-align: center;
+    }
+    
+    header h1 {
+        font-size: 2em;
+    }
+    
+    .social-links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    
+    .social-links a {
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+    
+    .publication {
+        flex-direction: column;
+        gap: 18px;
+    }
+    
+    .pub-image {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
+    .pub-links a {
+        display: inline-block;
+        margin-right: 12px;
+        margin-bottom: 5px;
+    }
+    
+    .profile-pic {
+        width: 150px;
+        height: 150px;
+    }
+    
+    .section-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    
+    .section-header h2 {
+        display: block;
+        text-align: left;
+    }
+    
+    .show-all-btn {
+        margin-bottom: 0;
+    }
+}
