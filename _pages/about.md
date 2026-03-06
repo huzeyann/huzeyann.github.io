@@ -106,7 +106,7 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
                         <b>Vibe Spaces for Creatively Connecting and Expressing Visual Concepts</b> <br>
                         <span style="font-size: 10pt;">
                         Huzheng Yang, Katherine Xu, Andrew Lu, Michael D. Grossberg, Yutong Bai, Jianbo Shi<br>
-                        preprint <br>
+                        CVPR 2026 <br>
                         [<a href="https://arxiv.org/pdf/2512.14884">Paper</a>]
                         [<a href="https://huzeyann.github.io/VibeSpace-webpage/">Webpage</a>]
                         [<a href="https://github.com/huzeyann/VibeSpace">GitHub</a>]
@@ -124,7 +124,7 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
                         <span style="font-size: 10pt;">
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         May. 2024 <br>
-                        arxiv, <em>rejected by NeurIPS</em> <br>
+                        arxiv <br>
                         [<a href="https://huzeyann.github.io/AlignedCut/">Webpage</a>]
                         [<a href="https://arxiv.org/abs/2406.18344">Paper</a>]
                         [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EdPlbbmV3Q9DmXKRIElcw5ABhOnNQctJSky6jcN7Au0elg?e=snyVLo">Slides</a>]
@@ -179,7 +179,7 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
                         <span style="font-size: 10pt;">
                         Huzheng Yang, Jianbo Shi*, James Gee*<br>
                         May. 2023 <br>
-                        arxiv, <em>rejected by NeurIPS</em> <br>
+                        arxiv <br>
                         [<a href="https://arxiv.org/abs/2307.14021">Paper</a>]
                         [<a href="https://openreview.net/forum?id=DvRTU1whxF">Openreview</a>]
                         <br>
