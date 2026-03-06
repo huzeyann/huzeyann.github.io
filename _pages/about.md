@@ -125,6 +125,7 @@ I play rhythm game and instruments when things doesn't work <small>(they doesn't
                         Huzheng Yang, James Gee*, Jianbo Shi*<br>
                         May. 2024 <br>
                         arxiv, <em>rejected by NeurIPS</em> <br>
+                        [<a href="https://huzeyann.github.io/AlignedCut/">Webpage</a>]
                         [<a href="https://arxiv.org/abs/2406.18344">Paper</a>]
                         [<a href="https://penno365-my.sharepoint.com/:p:/g/personal/huze_upenn_edu/EdPlbbmV3Q9DmXKRIElcw5ABhOnNQctJSky6jcN7Au0elg?e=snyVLo">Slides</a>]
                         <br>
